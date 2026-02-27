@@ -764,7 +764,7 @@ function makeProviders(): LLMProvider[] {
       call: async function* (messages) {
         await rateLimitCheck("huggingface");
         const prompt = messages.map((m: any) => `${m.role === "system" ? "System" : m.role === "user" ? "User" : "Assistant"}: ${m.content}`).join("\n") + "\nAssistant:";
-        const res = await axios.post("https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.3", {
+        const res = await axios.post("https://router.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.3", {
           inputs: prompt,
           parameters: { max_new_tokens: 4096, temperature: 0.7, return_full_text: false },
         }, {
