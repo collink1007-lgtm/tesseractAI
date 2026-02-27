@@ -152,7 +152,7 @@ export async function callLLMSimple(prompt: string, maxTokens = 2048, options: a
     },
     {
       name: "HuggingFace",
-      url: "https://api-inference.huggingface.co/v1/chat/completions",
+      url: "https://router.huggingface.co/v1/chat/completions",
       model: "mistralai/Mistral-7B-Instruct-v0.3",
       key: process.env.HUGGINGFACE_API_KEY,
     },
