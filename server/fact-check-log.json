@@ -1,0 +1,55 @@
+{
+  "totalChecks": 3,
+  "hallucinationsDetected": 2,
+  "simulationsDetected": 0,
+  "accuracyRate": 33.33333333333333,
+  "lastUpdated": "2026-02-27T12:06:56.924Z",
+  "recentChecks": [
+    {
+      "id": "fc-1772194005201-yzkthh",
+      "timestamp": 1772194005408,
+      "originalClaim": "I made changes to your Shopify store and optimized the product listings. The changes are live now.",
+      "source": "test",
+      "verdict": "unverified",
+      "confidence": 70,
+      "explanation": "Claims could not be fully verified against available evidence.",
+      "evidence": [
+        "Hallucination indicators found: i made changes to your shopify, changes are live",
+        "Claims about external services (Shopify, deployments) cannot be verified without API access",
+        "Deployment claims require verification against actual hosting platforms"
+      ],
+      "checkedBy": "Fact Check Agency",
+      "category": "deployment_claim"
+    },
+    {
+      "id": "fc-1772194009926-31ravu",
+      "timestamp": 1772194010068,
+      "originalClaim": "I made changes to your Shopify store and optimized the product listings. The changes are live now.",
+      "source": "test",
+      "verdict": "unverified",
+      "confidence": 70,
+      "explanation": "Claims could not be fully verified against available evidence.",
+      "evidence": [
+        "Hallucination indicators found: i made changes to your shopify, changes are live",
+        "Claims about external services (Shopify, deployments) cannot be verified without API access",
+        "Deployment claims require verification against actual hosting platforms"
+      ],
+      "checkedBy": "Fact Check Agency",
+      "category": "deployment_claim"
+    },
+    {
+      "id": "fc-1772194016798-gv9eak",
+      "timestamp": 1772194016924,
+      "originalClaim": "The server/routes.ts file contains API endpoints for managing conversations and agents.",
+      "source": "test",
+      "verdict": "verified",
+      "confidence": 100,
+      "explanation": "Claims appear consistent with verifiable system state.",
+      "evidence": [
+        "File verification: server/routes.ts: EXISTS (215222 bytes, modified 2026-02-27T12:06:04.019Z)"
+      ],
+      "checkedBy": "Fact Check Agency",
+      "category": "general"
+    }
+  ]
+}

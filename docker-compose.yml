@@ -1,0 +1,46 @@
+version: "3.8"
+
+services:
+  tessera:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - NODE_ENV=production
+      - PORT=5000
+      - DATABASE_URL=postgresql://tessera:tessera_secret@db:5432/tessera
+      - SESSION_SECRET=${SESSION_SECRET}
+      - OPENROUTER_API_KEY=${OPENROUTER_API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - DEEPSEEK_API_KEY=${DEEPSEEK_API_KEY}
+      - GROK_API_KEY=${GROK_API_KEY}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - COHERE_API_KEY=${COHERE_API_KEY}
+      - GITHUB_TOKEN=${GITHUB_TOKEN}
+      - HUGGINGFACE_API_KEY=${HUGGINGFACE_API_KEY}
+      - COLLIN_VERIFICATION=${COLLIN_VERIFICATION}
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - uploads:/app/uploads
+    restart: unless-stopped
+
+  db:
+    image: postgres:16-alpine
+    environment:
+      - POSTGRES_USER=tessera
+      - POSTGRES_PASSWORD=tessera_secret
+      - POSTGRES_DB=tessera
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U tessera"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+volumes:
+  pgdata:
+  uploads:

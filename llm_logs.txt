@@ -1,0 +1,151 @@
+2026-02-27T13:00:28.761Z - Error with provider Cohere: Request failed with status code 405
+2026-02-27T13:00:28.813Z - Attempting call to provider HuggingFace (attempt 1/3)
+2026-02-27T13:00:28.923Z - Error with provider HuggingFace: Request failed with status code 410
+2026-02-27T13:00:30.925Z - Attempting call to provider HuggingFace (attempt 2/3)
+2026-02-27T13:00:31.007Z - Error with provider HuggingFace: Request failed with status code 410
+2026-02-27T13:00:33.009Z - Attempting call to provider HuggingFace (attempt 3/3)
+2026-02-27T13:00:33.091Z - Error with provider HuggingFace: Request failed with status code 410
+2026-02-27T13:00:33.166Z - Attempting call to provider Gemini (attempt 1/3)
+2026-02-27T13:00:33.431Z - Error with provider Gemini: Request failed with status code 429
+2026-02-27T13:00:35.433Z - Attempting call to provider Gemini (attempt 2/3)
+2026-02-27T13:00:35.523Z - Error with provider Gemini: Request failed with status code 429
+2026-02-27T13:00:37.525Z - Attempting call to provider Gemini (attempt 3/3)
+2026-02-27T13:00:37.607Z - Error with provider Gemini: Request failed with status code 429
+2026-02-27T13:00:37.630Z - Attempting call to provider Gemini (attempt 1/3)
+2026-02-27T13:00:37.793Z - Error with provider Gemini: Request failed with status code 429
+2026-02-27T13:00:39.796Z - Attempting call to provider Gemini (attempt 2/3)
+2026-02-27T13:00:39.870Z - Error with provider Gemini: Request failed with status code 429
+2026-02-27T13:00:41.871Z - Attempting call to provider Gemini (attempt 3/3)
+2026-02-27T13:00:41.951Z - Error with provider Gemini: Request failed with status code 429
+2026-02-27T13:00:41.981Z - Attempting call to provider OpenRouter (attempt 1/3)
+2026-02-27T13:00:42.118Z - Error with provider OpenRouter: Request failed with status code 404
+2026-02-27T13:00:44.120Z - Attempting call to provider OpenRouter (attempt 2/3)
+2026-02-27T13:00:44.142Z - Error with provider OpenRouter: Request failed with status code 404
+2026-02-27T13:00:46.144Z - Attempting call to provider OpenRouter (attempt 3/3)
+2026-02-27T13:00:46.163Z - Error with provider OpenRouter: Request failed with status code 404
+2026-02-27T13:00:46.180Z - Attempting call to provider DeepSeek (attempt 1/3)
+2026-02-27T13:00:46.796Z - Error with provider DeepSeek: Request failed with status code 402
+2026-02-27T13:00:48.799Z - Attempting call to provider DeepSeek (attempt 2/3)
+2026-02-27T13:00:49.372Z - Error with provider DeepSeek: Request failed with status code 402
+2026-02-27T13:00:51.376Z - Attempting call to provider DeepSeek (attempt 3/3)
+2026-02-27T13:00:51.996Z - Error with provider DeepSeek: Request failed with status code 402
+2026-02-27T13:00:52.019Z - Attempting call to provider Grok (attempt 1/3)
+2026-02-27T13:00:52.127Z - Error with provider Grok: Request failed with status code 429
+2026-02-27T13:00:54.129Z - Attempting call to provider Grok (attempt 2/3)
+2026-02-27T13:00:54.218Z - Error with provider Grok: Request failed with status code 429
+2026-02-27T13:00:56.221Z - Attempting call to provider Grok (attempt 3/3)
+2026-02-27T13:00:56.353Z - Error with provider Grok: Request failed with status code 429
+2026-02-27T13:00:56.376Z - Attempting call to provider Cohere (attempt 1/3)
+2026-02-27T13:00:56.439Z - Error with provider Cohere: Request failed with status code 405
+2026-02-27T13:00:58.441Z - Attempting call to provider Cohere (attempt 2/3)
+2026-02-27T13:00:58.498Z - Error with provider Cohere: Request failed with status code 405
+2026-02-27T13:01:00.500Z - Attempting call to provider Cohere (attempt 3/3)
+2026-02-27T13:01:00.563Z - Error with provider Cohere: Request failed with status code 405
+2026-02-27T13:01:00.593Z - Attempting call to provider HuggingFace (attempt 1/3)
+2026-02-27T13:01:00.707Z - Error with provider HuggingFace: Request failed with status code 410
+2026-02-27T13:01:02.710Z - Attempting call to provider HuggingFace (attempt 2/3)
+2026-02-27T13:01:02.786Z - Error with provider HuggingFace: Request failed with status code 410
+2026-02-27T13:01:04.789Z - Attempting call to provider HuggingFace (attempt 3/3)
+2026-02-27T13:01:04.867Z - Error with provider HuggingFace: Request failed with status code 410
+2026-02-27T13:05:57.987Z - Attempting call to provider OpenRouter (attempt 1/3)
+2026-02-27T13:05:58.294Z - Error with provider OpenRouter: Request failed with status code 404
+2026-02-27T13:06:00.298Z - Attempting call to provider OpenRouter (attempt 2/3)
+2026-02-27T13:06:00.334Z - Error with provider OpenRouter: Request failed with status code 404
+2026-02-27T13:06:02.337Z - Attempting call to provider OpenRouter (attempt 3/3)
+2026-02-27T13:06:02.369Z - Error with provider OpenRouter: Request failed with status code 404
+2026-02-27T13:06:02.409Z - Attempting call to provider DeepSeek (attempt 1/3)
+2026-02-27T13:06:03.110Z - Error with provider DeepSeek: Request failed with status code 402
+2026-02-27T13:06:05.112Z - Attempting call to provider DeepSeek (attempt 2/3)
+2026-02-27T13:06:05.694Z - Error with provider DeepSeek: Request failed with status code 402
+2026-02-27T13:06:07.696Z - Attempting call to provider DeepSeek (attempt 3/3)
+2026-02-27T13:06:08.327Z - Error with provider DeepSeek: Request failed with status code 402
+2026-02-27T13:06:08.362Z - Attempting call to provider Grok (attempt 1/3)
+2026-02-27T13:06:08.525Z - Error with provider Grok: Request failed with status code 429
+2026-02-27T13:06:10.527Z - Attempting call to provider Grok (attempt 2/3)
+2026-02-27T13:06:10.642Z - Error with provider Grok: Request failed with status code 429
+2026-02-27T13:06:12.645Z - Attempting call to provider Grok (attempt 3/3)
+2026-02-27T13:06:12.761Z - Error with provider Grok: Request failed with status code 429
+2026-02-27T13:06:12.796Z - Attempting call to provider Cohere (attempt 1/3)
+2026-02-27T13:06:12.882Z - Error with provider Cohere: Request failed with status code 405
+2026-02-27T13:06:14.884Z - Attempting call to provider Cohere (attempt 2/3)
+2026-02-27T13:06:14.937Z - Error with provider Cohere: Request failed with status code 405
+2026-02-27T13:06:16.940Z - Attempting call to provider Cohere (attempt 3/3)
+2026-02-27T13:06:17.001Z - Error with provider Cohere: Request failed with status code 405
+2026-02-27T13:06:17.032Z - Attempting call to provider HuggingFace (attempt 1/3)
+2026-02-27T13:06:17.157Z - Error with provider HuggingFace: Request failed with status code 410
+2026-02-27T13:06:19.161Z - Attempting call to provider HuggingFace (attempt 2/3)
+2026-02-27T13:06:19.236Z - Error with provider HuggingFace: Request failed with status code 410
+2026-02-27T13:06:21.238Z - Attempting call to provider HuggingFace (attempt 3/3)
+2026-02-27T13:06:21.317Z - Error with provider HuggingFace: Request failed with status code 410
+2026-02-27T13:06:21.374Z - Attempting call to provider Gemini (attempt 1/3)
+2026-02-27T13:06:21.482Z - Error with provider Gemini: Request failed with status code 429
+2026-02-27T13:06:23.483Z - Attempting call to provider Gemini (attempt 2/3)
+2026-02-27T13:06:23.576Z - Error with provider Gemini: Request failed with status code 429
+2026-02-27T13:06:25.579Z - Attempting call to provider Gemini (attempt 3/3)
+2026-02-27T13:06:25.671Z - Error with provider Gemini: Request failed with status code 429
+2026-02-27T13:06:25.741Z - Attempting call to provider Gemini (attempt 1/3)
+2026-02-27T13:06:25.850Z - Error with provider Gemini: Request failed with status code 429
+2026-02-27T13:06:27.852Z - Attempting call to provider Gemini (attempt 2/3)
+2026-02-27T13:06:27.950Z - Error with provider Gemini: Request failed with status code 429
+2026-02-27T13:06:29.953Z - Attempting call to provider Gemini (attempt 3/3)
+2026-02-27T13:06:30.054Z - Error with provider Gemini: Request failed with status code 429
+2026-02-27T13:06:30.116Z - Attempting call to provider OpenRouter (attempt 1/3)
+2026-02-27T13:06:30.256Z - Error with provider OpenRouter: Request failed with status code 404
+2026-02-27T13:06:32.260Z - Attempting call to provider OpenRouter (attempt 2/3)
+2026-02-27T13:06:32.297Z - Error with provider OpenRouter: Request failed with status code 404
+2026-02-27T13:06:34.299Z - Attempting call to provider OpenRouter (attempt 3/3)
+2026-02-27T13:06:34.323Z - Error with provider OpenRouter: Request failed with status code 404
+2026-02-27T13:06:34.387Z - Attempting call to provider DeepSeek (attempt 1/3)
+2026-02-27T13:06:35.173Z - Error with provider DeepSeek: Request failed with status code 402
+2026-02-27T13:06:37.175Z - Attempting call to provider DeepSeek (attempt 2/3)
+2026-02-27T13:06:37.764Z - Error with provider DeepSeek: Request failed with status code 402
+2026-02-27T13:06:39.767Z - Attempting call to provider DeepSeek (attempt 3/3)
+2026-02-27T13:06:40.371Z - Error with provider DeepSeek: Request failed with status code 402
+2026-02-27T13:06:40.445Z - Attempting call to provider Grok (attempt 1/3)
+2026-02-27T13:06:40.557Z - Error with provider Grok: Request failed with status code 429
+2026-02-27T13:06:42.559Z - Attempting call to provider Grok (attempt 2/3)
+2026-02-27T13:06:42.674Z - Error with provider Grok: Request failed with status code 429
+2026-02-27T13:06:44.675Z - Attempting call to provider Grok (attempt 3/3)
+2026-02-27T13:06:44.785Z - Error with provider Grok: Request failed with status code 429
+2026-02-27T13:06:44.862Z - Attempting call to provider Cohere (attempt 1/3)
+2026-02-27T13:06:44.948Z - Error with provider Cohere: Request failed with status code 405
+2026-02-27T13:06:46.950Z - Attempting call to provider Cohere (attempt 2/3)
+2026-02-27T13:06:47.009Z - Error with provider Cohere: Request failed with status code 405
+2026-02-27T13:06:49.012Z - Attempting call to provider Cohere (attempt 3/3)
+2026-02-27T13:06:49.070Z - Error with provider Cohere: Request failed with status code 405
+2026-02-27T13:06:49.141Z - Attempting call to provider HuggingFace (attempt 1/3)
+2026-02-27T13:06:49.264Z - Error with provider HuggingFace: Request failed with status code 410
+2026-02-27T13:06:51.265Z - Attempting call to provider HuggingFace (attempt 2/3)
+2026-02-27T13:06:51.349Z - Error with provider HuggingFace: Request failed with status code 410
+2026-02-27T13:06:53.352Z - Attempting call to provider HuggingFace (attempt 3/3)
+2026-02-27T13:06:53.432Z - Error with provider HuggingFace: Request failed with status code 410
+2026-02-27T13:06:53.524Z - Attempting call to provider OpenRouter (attempt 1/3)
+2026-02-27T13:06:53.659Z - Error with provider OpenRouter: Request failed with status code 404
+2026-02-27T13:06:55.662Z - Attempting call to provider OpenRouter (attempt 2/3)
+2026-02-27T13:06:55.678Z - Error with provider OpenRouter: Request failed with status code 404
+2026-02-27T13:06:57.680Z - Attempting call to provider OpenRouter (attempt 3/3)
+2026-02-27T13:06:57.698Z - Error with provider OpenRouter: Request failed with status code 404
+2026-02-27T13:06:57.731Z - Attempting call to provider DeepSeek (attempt 1/3)
+2026-02-27T13:06:58.319Z - Error with provider DeepSeek: Request failed with status code 402
+2026-02-27T13:07:00.323Z - Attempting call to provider DeepSeek (attempt 2/3)
+2026-02-27T13:07:01.029Z - Error with provider DeepSeek: Request failed with status code 402
+2026-02-27T13:07:03.032Z - Attempting call to provider DeepSeek (attempt 3/3)
+2026-02-27T13:07:03.612Z - Error with provider DeepSeek: Request failed with status code 402
+2026-02-27T13:07:03.649Z - Attempting call to provider Grok (attempt 1/3)
+2026-02-27T13:07:03.780Z - Error with provider Grok: Request failed with status code 429
+2026-02-27T13:07:05.782Z - Attempting call to provider Grok (attempt 2/3)
+2026-02-27T13:07:05.900Z - Error with provider Grok: Request failed with status code 429
+2026-02-27T13:07:07.903Z - Attempting call to provider Grok (attempt 3/3)
+2026-02-27T13:07:08.004Z - Error with provider Grok: Request failed with status code 429
+2026-02-27T13:07:08.023Z - Attempting call to provider Cohere (attempt 1/3)
+2026-02-27T13:07:08.100Z - Error with provider Cohere: Request failed with status code 405
+2026-02-27T13:07:10.103Z - Attempting call to provider Cohere (attempt 2/3)
+2026-02-27T13:07:10.162Z - Error with provider Cohere: Request failed with status code 405
+2026-02-27T13:07:12.165Z - Attempting call to provider Cohere (attempt 3/3)
+2026-02-27T13:07:12.223Z - Error with provider Cohere: Request failed with status code 405
+2026-02-27T13:07:12.248Z - Attempting call to provider HuggingFace (attempt 1/3)
+2026-02-27T13:07:12.359Z - Error with provider HuggingFace: Request failed with status code 410
+2026-02-27T13:07:14.361Z - Attempting call to provider HuggingFace (attempt 2/3)
+2026-02-27T13:07:14.436Z - Error with provider HuggingFace: Request failed with status code 410
+2026-02-27T13:07:16.440Z - Attempting call to provider HuggingFace (attempt 3/3)
+2026-02-27T13:07:16.518Z - Error with provider HuggingFace: Request failed with status code 410

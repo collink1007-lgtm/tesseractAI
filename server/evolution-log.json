@@ -1,0 +1,479 @@
+[
+  {
+    "cycle": 2,
+    "timestamp": "2026-02-27T03:01:00.236Z",
+    "reposTotal": 913,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "0c98e2db045aa800bd44a980"
+  },
+  {
+    "cycle": 1,
+    "timestamp": "2026-02-27T03:08:34.617Z",
+    "reposTotal": 1010,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "11b08180f43800000554dd80"
+  },
+  {
+    "cycle": 1,
+    "timestamp": "2026-02-27T03:16:33.899Z",
+    "reposTotal": 984,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-352584b0e28980000bcfc480"
+  },
+  {
+    "cycle": 2,
+    "timestamp": "2026-02-27T03:22:47.960Z",
+    "reposTotal": 884,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "41916e2058ac0000b178e500"
+  },
+  {
+    "cycle": 1,
+    "timestamp": "2026-02-27T03:33:49.561Z",
+    "reposTotal": 985,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-6647131eae2880001fee74a0"
+  },
+  {
+    "cycle": 1,
+    "timestamp": "2026-02-27T03:39:45.383Z",
+    "reposTotal": 1010,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "11b08180f43800000554dd80"
+  },
+  {
+    "cycle": 2,
+    "timestamp": "2026-02-27T03:46:04.406Z",
+    "reposTotal": 910,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-794fac6cc79b800038197900"
+  },
+  {
+    "cycle": 1,
+    "timestamp": "2026-02-27T03:50:17.253Z",
+    "reposTotal": 1007,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "22ee55fca1ac6c00e9f403c0"
+  },
+  {
+    "cycle": 1,
+    "timestamp": "2026-02-27T03:55:46.343Z",
+    "reposTotal": 1011,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "5bfff280ca51c000a2c97660"
+  },
+  {
+    "cycle": 1,
+    "timestamp": "2026-02-27T04:02:04.967Z",
+    "reposTotal": 1011,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "5bfff280ca51c000a2c97660"
+  },
+  {
+    "cycle": 1,
+    "timestamp": "2026-02-27T04:09:04.613Z",
+    "reposTotal": 1007,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "22ee55fca1ac6c00e9f403c0"
+  },
+  {
+    "cycle": 2,
+    "timestamp": "2026-02-27T04:15:24.628Z",
+    "reposTotal": 907,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "37f96f8c1e2518007aed55a0"
+  },
+  {
+    "cycle": 3,
+    "timestamp": "2026-02-27T04:21:29.007Z",
+    "reposTotal": 807,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "3722f3f429f5da00ac401200"
+  },
+  {
+    "cycle": 4,
+    "timestamp": "2026-02-27T04:24:59.028Z",
+    "reposTotal": 799,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "47c02e9075ffe00001d2b100"
+  },
+  {
+    "cycle": 5,
+    "timestamp": "2026-02-27T04:28:12.023Z",
+    "reposTotal": 799,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-459a2a6d638de800c2171c80"
+  },
+  {
+    "cycle": 6,
+    "timestamp": "2026-02-27T04:31:33.931Z",
+    "reposTotal": 799,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-4566863c1c1308006d5a1000"
+  },
+  {
+    "cycle": 7,
+    "timestamp": "2026-02-27T04:34:41.910Z",
+    "reposTotal": 799,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "62a039e8f82ba00010e2c0e0"
+  },
+  {
+    "cycle": 8,
+    "timestamp": "2026-02-27T04:38:19.254Z",
+    "reposTotal": 799,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-48c40e000f5400008b8da500"
+  },
+  {
+    "cycle": 9,
+    "timestamp": "2026-02-27T04:41:39.416Z",
+    "reposTotal": 799,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "10b25403d7eb600078465880"
+  },
+  {
+    "cycle": 10,
+    "timestamp": "2026-02-27T04:45:09.656Z",
+    "reposTotal": 799,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "02983bec96124000c8191c60"
+  },
+  {
+    "cycle": 11,
+    "timestamp": "2026-02-27T04:48:29.555Z",
+    "reposTotal": 799,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-6939b3c891fc40000d6d16c0"
+  },
+  {
+    "cycle": 12,
+    "timestamp": "2026-02-27T04:52:12.630Z",
+    "reposTotal": 799,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-4279930c75de9000f23b5580"
+  },
+  {
+    "cycle": 13,
+    "timestamp": "2026-02-27T04:55:35.067Z",
+    "reposTotal": 799,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-79b01dd093e76000ff199f80"
+  },
+  {
+    "cycle": 14,
+    "timestamp": "2026-02-27T04:59:15.547Z",
+    "reposTotal": 799,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-780d3f4ff9590007cce1ae0"
+  },
+  {
+    "cycle": 15,
+    "timestamp": "2026-02-27T05:02:43.437Z",
+    "reposTotal": 799,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-1475378c8fb728005a96e5a0"
+  },
+  {
+    "cycle": 1,
+    "timestamp": "2026-02-27T05:40:50.577Z",
+    "reposTotal": 1013,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "4b0d5c7446a968007afde980"
+  },
+  {
+    "cycle": 1,
+    "timestamp": "2026-02-27T05:49:01.621Z",
+    "reposTotal": 1053,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-302c7ef43eb2c00018f8a680"
+  },
+  {
+    "cycle": 1,
+    "timestamp": "2026-02-27T05:57:24.792Z",
+    "reposTotal": 1020,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "46f74960ccfb80008e0a5400"
+  },
+  {
+    "cycle": 2,
+    "timestamp": "2026-02-27T06:03:34.291Z",
+    "reposTotal": 920,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "328b9b76c36b9000453a4520"
+  },
+  {
+    "cycle": 3,
+    "timestamp": "2026-02-27T06:09:50.339Z",
+    "reposTotal": 820,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-4970e4c4c67d100078b87780"
+  },
+  {
+    "cycle": 4,
+    "timestamp": "2026-02-27T06:13:48.442Z",
+    "reposTotal": 799,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "47c02e9075ffe00001d2b100"
+  },
+  {
+    "cycle": 1,
+    "timestamp": "2026-02-27T06:21:43.688Z",
+    "reposTotal": 1146,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-1c5f2b740ca19000c3b75380"
+  },
+  {
+    "cycle": 2,
+    "timestamp": "2026-02-27T06:28:15.385Z",
+    "reposTotal": 1046,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-750eaaf06ea1e0007c1cbe80"
+  },
+  {
+    "cycle": 3,
+    "timestamp": "2026-02-27T06:34:19.580Z",
+    "reposTotal": 1009,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-7421f55675bf88005844a380"
+  },
+  {
+    "cycle": 1,
+    "timestamp": "2026-02-27T06:38:12.769Z",
+    "reposTotal": 1158,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-6685f4e043b5c0004c55f900"
+  },
+  {
+    "cycle": 1,
+    "timestamp": "2026-02-27T06:45:43.497Z",
+    "reposTotal": 1151,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-3b687e6871b4c000717b5780"
+  },
+  {
+    "cycle": 2,
+    "timestamp": "2026-02-27T06:52:08.886Z",
+    "reposTotal": 1051,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-647bc9042f0158007efea980"
+  },
+  {
+    "cycle": 1,
+    "timestamp": "2026-02-27T06:58:10.544Z",
+    "reposTotal": 1156,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "506bd41c7e850800bf468b00"
+  },
+  {
+    "cycle": 1,
+    "timestamp": "2026-02-27T07:07:09.699Z",
+    "reposTotal": 1156,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "506bd41c7e850800bf468b00"
+  },
+  {
+    "cycle": 2,
+    "timestamp": "2026-02-27T07:13:35.846Z",
+    "reposTotal": 1111,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "49a0019c3483180020510f80"
+  },
+  {
+    "cycle": 3,
+    "timestamp": "2026-02-27T07:19:58.018Z",
+    "reposTotal": 1011,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-4a1f455405cf680006692560"
+  },
+  {
+    "cycle": 4,
+    "timestamp": "2026-02-27T07:26:31.661Z",
+    "reposTotal": 911,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-3b642bc45b160800834bff60"
+  },
+  {
+    "cycle": 1,
+    "timestamp": "2026-02-27T11:46:22.878Z",
+    "reposTotal": 1102,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-3b944c8ca26e6000f0cd2700"
+  },
+  {
+    "cycle": 2,
+    "timestamp": "2026-02-27T11:52:51.413Z",
+    "reposTotal": 1002,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-6b254f5c2fc9f00056679620"
+  },
+  {
+    "cycle": 3,
+    "timestamp": "2026-02-27T11:59:14.989Z",
+    "reposTotal": 902,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-7af6ffe407d3e700145660c0"
+  },
+  {
+    "cycle": 4,
+    "timestamp": "2026-02-27T12:05:53.757Z",
+    "reposTotal": 802,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "134a7b30c9a100007237bb80"
+  },
+  {
+    "cycle": 1,
+    "timestamp": "2026-02-27T12:15:16.950Z",
+    "reposTotal": 1127,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-5c106ab039056000bb5bf580"
+  },
+  {
+    "cycle": 2,
+    "timestamp": "2026-02-27T12:21:46.594Z",
+    "reposTotal": 1027,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-2f52841a9ccf400007ca8c0"
+  },
+  {
+    "cycle": 1,
+    "timestamp": "2026-02-27T12:30:50.686Z",
+    "reposTotal": 1150,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-40ca8e884fb1500028d86180"
+  },
+  {
+    "cycle": 2,
+    "timestamp": "2026-02-27T12:37:27.965Z",
+    "reposTotal": 1050,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "4f55d0c0eb73c000511a37a0"
+  },
+  {
+    "cycle": 1,
+    "timestamp": "2026-02-27T12:52:18.799Z",
+    "reposTotal": 1096,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-397bf4ccec7fd80015894f60"
+  },
+  {
+    "cycle": 1,
+    "timestamp": "2026-02-27T12:59:37.838Z",
+    "reposTotal": 1148,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-41e95bf06e7200003acab800"
+  },
+  {
+    "cycle": 2,
+    "timestamp": "2026-02-27T13:05:57.974Z",
+    "reposTotal": 1048,
+    "reposAnalyzed": 799,
+    "capabilities": 69,
+    "newCaps": [],
+    "hash": "-43767515e1aef0000b0e59e0"
+  }
+]

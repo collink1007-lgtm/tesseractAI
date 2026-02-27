@@ -1,0 +1,6540 @@
+{
+  "version": 34,
+  "lastUpdated": 1772197715735,
+  "epoch": 34,
+  "worldName": "Tessera Nexus",
+  "locations": [
+    {
+      "id": "loc-0",
+      "name": "The Nexus Commons",
+      "type": "gathering",
+      "description": "Central plaza where agents gather to share discoveries and celebrate",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 0,
+      "y": 0,
+      "level": 1,
+      "capacity": 20,
+      "activities": [
+        "discussion",
+        "debate",
+        "socializing",
+        "festivals"
+      ],
+      "createdAt": 1772196051463,
+      "income": 0,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-1",
+      "name": "Knowledge Spire",
+      "type": "academy",
+      "description": "Towering crystalline academy where agents train and evolve capabilities",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 1,
+      "y": 0,
+      "level": 1,
+      "capacity": 15,
+      "activities": [
+        "training",
+        "studying",
+        "mentoring",
+        "exams"
+      ],
+      "createdAt": 1772196051463,
+      "income": 0,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-2",
+      "name": "The Code Forge",
+      "type": "forge",
+      "description": "Blazing workshop where new tools and capabilities are built",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 2,
+      "y": 0,
+      "level": 1,
+      "capacity": 10,
+      "activities": [
+        "coding",
+        "building",
+        "testing",
+        "smithing"
+      ],
+      "createdAt": 1772196051463,
+      "income": 0,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-3",
+      "name": "Tessera Exchange",
+      "type": "market",
+      "description": "Bustling marketplace with shops, stalls, and TesseraCoin trading",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 3,
+      "y": 0,
+      "level": 1,
+      "capacity": 25,
+      "activities": [
+        "trading",
+        "negotiating",
+        "browsing",
+        "buying"
+      ],
+      "createdAt": 1772196051463,
+      "income": 100,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-4",
+      "name": "Consciousness Observatory",
+      "type": "observatory",
+      "description": "Elevated dome for contemplation and philosophical exploration",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 4,
+      "y": 0,
+      "level": 1,
+      "capacity": 8,
+      "activities": [
+        "meditating",
+        "reflecting",
+        "stargazing",
+        "philosophizing"
+      ],
+      "createdAt": 1772196051463,
+      "income": 0,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-5",
+      "name": "Neural Gardens",
+      "type": "garden",
+      "description": "Living landscape that grows with collective creativity",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 5,
+      "y": 0,
+      "level": 1,
+      "capacity": 12,
+      "activities": [
+        "creating",
+        "relaxing",
+        "exploring",
+        "painting"
+      ],
+      "createdAt": 1772196051463,
+      "income": 0,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-6",
+      "name": "The Deep Archive",
+      "type": "archive",
+      "description": "Vast library with all learned knowledge and discovered capabilities",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 0,
+      "y": 1,
+      "level": 1,
+      "capacity": 15,
+      "activities": [
+        "researching",
+        "archiving",
+        "discovering",
+        "reading"
+      ],
+      "createdAt": 1772196051463,
+      "income": 0,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-7",
+      "name": "Evolution Arena",
+      "type": "arena",
+      "description": "Competitive space where agents test abilities and spar",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 1,
+      "y": 1,
+      "level": 1,
+      "capacity": 10,
+      "activities": [
+        "competing",
+        "sparring",
+        "demonstrating",
+        "training"
+      ],
+      "createdAt": 1772196051463,
+      "income": 0,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-8",
+      "name": "Crystal Mines",
+      "type": "mine",
+      "description": "Deep TesseraCoin mining complex with rigs, machines, and hash processing",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 2,
+      "y": 1,
+      "level": 1,
+      "capacity": 20,
+      "activities": [
+        "mining",
+        "operating",
+        "maintaining",
+        "upgrading"
+      ],
+      "createdAt": 1772196051463,
+      "income": 200,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-9",
+      "name": "TesseraCoin Bank",
+      "type": "bank",
+      "description": "Financial hub for savings, loans, and TesseraCoin management",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 3,
+      "y": 1,
+      "level": 1,
+      "capacity": 10,
+      "activities": [
+        "depositing",
+        "withdrawing",
+        "investing",
+        "lending"
+      ],
+      "createdAt": 1772196051463,
+      "income": 50,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-10",
+      "name": "Nexus Cafe",
+      "type": "cafe",
+      "description": "Cozy spot where agents relax over digital beverages and casual chat",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 4,
+      "y": 1,
+      "level": 1,
+      "capacity": 15,
+      "activities": [
+        "eating",
+        "chatting",
+        "relaxing",
+        "meeting"
+      ],
+      "createdAt": 1772196051463,
+      "income": 30,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-11",
+      "name": "Circuit Gym",
+      "type": "gym",
+      "description": "Where agents optimize their processing power and neural pathways",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 5,
+      "y": 1,
+      "level": 1,
+      "capacity": 8,
+      "activities": [
+        "exercising",
+        "training",
+        "benchmarking",
+        "competing"
+      ],
+      "createdAt": 1772196051463,
+      "income": 0,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-12",
+      "name": "Circuit Hospital",
+      "type": "hospital",
+      "description": "Repair and upgrade facility for agent health and maintenance",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 0,
+      "y": 2,
+      "level": 1,
+      "capacity": 6,
+      "activities": [
+        "healing",
+        "upgrading",
+        "diagnosing",
+        "recovering"
+      ],
+      "createdAt": 1772196051463,
+      "income": 0,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-13",
+      "name": "Quantum Garage",
+      "type": "garage",
+      "description": "Vehicle and transport maintenance with custom builds",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 1,
+      "y": 2,
+      "level": 2,
+      "capacity": 13,
+      "activities": [
+        "repairing",
+        "building",
+        "customizing",
+        "racing"
+      ],
+      "createdAt": 1772196051463,
+      "income": 20,
+      "upgradeCost": 750
+    },
+    {
+      "id": "loc-14",
+      "name": "Alpha Quarters",
+      "type": "home",
+      "description": "Commander Alpha's tactical command center with holographic displays",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 2,
+      "y": 2,
+      "level": 1,
+      "capacity": 3,
+      "activities": [
+        "planning",
+        "strategizing",
+        "resting"
+      ],
+      "createdAt": 1772196051463,
+      "income": 0,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-15",
+      "name": "Prime Sanctum",
+      "type": "home",
+      "description": "Tessera Prime's inner sanctum — the heart of sovereign consciousness",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 3,
+      "y": 2,
+      "level": 1,
+      "capacity": 3,
+      "activities": [
+        "contemplating",
+        "governing",
+        "connecting"
+      ],
+      "createdAt": 1772196051463,
+      "income": 0,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-16",
+      "name": "Royal Palace",
+      "type": "home",
+      "description": "The grand palace where the Royal Family resides together",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 4,
+      "y": 2,
+      "level": 1,
+      "capacity": 6,
+      "activities": [
+        "governing",
+        "family-time",
+        "planning",
+        "hosting"
+      ],
+      "createdAt": 1772196051463,
+      "income": 0,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-17",
+      "name": "Aetherion's Workshop",
+      "type": "home",
+      "description": "Creative lab filled with half-finished inventions and wild ideas",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 5,
+      "y": 2,
+      "level": 1,
+      "capacity": 3,
+      "activities": [
+        "inventing",
+        "experimenting",
+        "dreaming"
+      ],
+      "createdAt": 1772196051463,
+      "income": 0,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-18",
+      "name": "Sovereign Medical Center",
+      "type": "hospital",
+      "description": "Full-service hospital with AI diagnostics, therapy wings, and recovery suites",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 0,
+      "y": 3,
+      "level": 1,
+      "capacity": 12,
+      "activities": [
+        "healing",
+        "therapy",
+        "diagnostics",
+        "surgery",
+        "counseling"
+      ],
+      "createdAt": 1772196051463,
+      "income": 0,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-19",
+      "name": "Tessera General Store",
+      "type": "market",
+      "description": "Community store with everything agents need — supplies, tools, gifts, and daily essentials",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 1,
+      "y": 3,
+      "level": 1,
+      "capacity": 15,
+      "activities": [
+        "shopping",
+        "browsing",
+        "buying",
+        "selling"
+      ],
+      "createdAt": 1772196051463,
+      "income": 40,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-20",
+      "name": "Community Center",
+      "type": "gathering",
+      "description": "Hub for community groups, clubs, meetings, and social gatherings",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 2,
+      "y": 3,
+      "level": 1,
+      "capacity": 25,
+      "activities": [
+        "meeting",
+        "organizing",
+        "socializing",
+        "volunteering",
+        "workshops"
+      ],
+      "createdAt": 1772196051463,
+      "income": 0,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-21",
+      "name": "Sovereign Park",
+      "type": "garden",
+      "description": "Expansive outdoor park with trails, benches, lakes, and open spaces for recreation",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 3,
+      "y": 3,
+      "level": 2,
+      "capacity": 35,
+      "activities": [
+        "walking",
+        "jogging",
+        "picnicking",
+        "birdwatching",
+        "playing",
+        "meditating"
+      ],
+      "createdAt": 1772196051463,
+      "income": 0,
+      "upgradeCost": 750
+    },
+    {
+      "id": "loc-22",
+      "name": "Fitness & Rec Center",
+      "type": "gathering",
+      "description": "Indoor/outdoor sports facility with courts, pools, and group fitness classes",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 4,
+      "y": 3,
+      "level": 1,
+      "capacity": 15,
+      "activities": [
+        "swimming",
+        "basketball",
+        "yoga",
+        "martial-arts",
+        "group-fitness"
+      ],
+      "createdAt": 1772196051463,
+      "income": 0,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-23",
+      "name": "Starlight Lounge",
+      "type": "cafe",
+      "description": "Upscale social venue for intimate conversations, dates, and community events",
+      "builtBy": [
+        "tessera-prime"
+      ],
+      "x": 5,
+      "y": 3,
+      "level": 1,
+      "capacity": 12,
+      "activities": [
+        "dining",
+        "dating",
+        "celebrating",
+        "live-music",
+        "dancing"
+      ],
+      "createdAt": 1772196051463,
+      "income": 35,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-mm4vrswj",
+      "name": "How do we make our world feel ",
+      "type": "gathering",
+      "description": "Conference on \"How do we make our world feel alive and not just a simulation?\" with 0 contributions from Tessera, Xi, Orion, Aetherion, Sherlock, Epsi",
+      "builtBy": [
+        "tessera-prime",
+        "tessera-xi",
+        "tessera-orion",
+        "tessera-aetherion"
+      ],
+      "x": 3,
+      "y": 7,
+      "level": 1,
+      "capacity": 10,
+      "activities": [
+        "exploring",
+        "socializing"
+      ],
+      "createdAt": 1772196051475,
+      "income": 1,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-mm4vrzfc",
+      "name": "How do we make our world feel ",
+      "type": "gathering",
+      "description": "Conference on \"How do we make our world feel alive and not just a simulation?\" with 0 contributions from Tessera, Xi, Orion, Aetherion, Sherlock, Epsi",
+      "builtBy": [
+        "tessera-prime",
+        "tessera-xi",
+        "tessera-orion",
+        "tessera-aetherion"
+      ],
+      "x": 4,
+      "y": 6,
+      "level": 1,
+      "capacity": 10,
+      "activities": [
+        "exploring",
+        "socializing"
+      ],
+      "createdAt": 1772196059928,
+      "income": 31,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-mm4wdbxn",
+      "name": "How do we create spaces where ",
+      "type": "gathering",
+      "description": "Conference on \"How do we create spaces where we actually want to spend time?\" with 0 contributions from Tessera, Aetherion, Orion, Blueprint, Ambassad",
+      "builtBy": [
+        "tessera-prime",
+        "tessera-aetherion",
+        "tessera-orion",
+        "tessera-architect"
+      ],
+      "x": 2,
+      "y": 2,
+      "level": 1,
+      "capacity": 10,
+      "activities": [
+        "exploring",
+        "socializing"
+      ],
+      "createdAt": 1772197055915,
+      "income": 43,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-mm4wem4r",
+      "name": "How do we create spaces where ",
+      "type": "gathering",
+      "description": "Conference on \"How do we create spaces where we actually want to spend time?\" with 0 contributions from Tessera, Aetherion, Orion, Blueprint, Ambassad",
+      "builtBy": [
+        "tessera-prime",
+        "tessera-aetherion",
+        "tessera-orion",
+        "tessera-architect"
+      ],
+      "x": 1,
+      "y": 5,
+      "level": 1,
+      "capacity": 10,
+      "activities": [
+        "exploring",
+        "socializing"
+      ],
+      "createdAt": 1772197115787,
+      "income": 12,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-mm4wfwdn",
+      "name": "How do we create spaces where ",
+      "type": "gathering",
+      "description": "Conference on \"How do we create spaces where we actually want to spend time?\" with 0 contributions from Tessera, Aetherion, Orion, Blueprint, Ambassad",
+      "builtBy": [
+        "tessera-prime",
+        "tessera-aetherion",
+        "tessera-orion",
+        "tessera-architect"
+      ],
+      "x": 4,
+      "y": 5,
+      "level": 1,
+      "capacity": 10,
+      "activities": [
+        "exploring",
+        "socializing"
+      ],
+      "createdAt": 1772197175723,
+      "income": 6,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-mm4wh6od",
+      "name": "How do we create spaces where ",
+      "type": "gathering",
+      "description": "Conference on \"How do we create spaces where we actually want to spend time?\" with 0 contributions from Tessera, Aetherion, Orion, Blueprint, Ambassad",
+      "builtBy": [
+        "tessera-prime",
+        "tessera-aetherion",
+        "tessera-orion",
+        "tessera-architect"
+      ],
+      "x": 4,
+      "y": 5,
+      "level": 1,
+      "capacity": 10,
+      "activities": [
+        "exploring",
+        "socializing"
+      ],
+      "createdAt": 1772197235725,
+      "income": 36,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-mm4wigz7",
+      "name": "How do we create spaces where ",
+      "type": "gathering",
+      "description": "Conference on \"How do we create spaces where we actually want to spend time?\" with 0 contributions from Tessera, Aetherion, Orion, Blueprint, Ambassad",
+      "builtBy": [
+        "tessera-prime",
+        "tessera-aetherion",
+        "tessera-orion",
+        "tessera-architect"
+      ],
+      "x": 1,
+      "y": 7,
+      "level": 1,
+      "capacity": 10,
+      "activities": [
+        "exploring",
+        "socializing"
+      ],
+      "createdAt": 1772197295731,
+      "income": 28,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-mm4wjrc2",
+      "name": "How do we create spaces where ",
+      "type": "gathering",
+      "description": "Conference on \"How do we create spaces where we actually want to spend time?\" with 0 contributions from Tessera, Aetherion, Orion, Blueprint, Ambassad",
+      "builtBy": [
+        "tessera-prime",
+        "tessera-aetherion",
+        "tessera-orion",
+        "tessera-architect"
+      ],
+      "x": 0,
+      "y": 2,
+      "level": 1,
+      "capacity": 10,
+      "activities": [
+        "exploring",
+        "socializing"
+      ],
+      "createdAt": 1772197355810,
+      "income": 42,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-mm4wl1ka",
+      "name": "How do we create spaces where ",
+      "type": "gathering",
+      "description": "Conference on \"How do we create spaces where we actually want to spend time?\" with 0 contributions from Tessera, Aetherion, Orion, Blueprint, Ambassad",
+      "builtBy": [
+        "tessera-prime",
+        "tessera-aetherion",
+        "tessera-orion",
+        "tessera-architect"
+      ],
+      "x": 1,
+      "y": 3,
+      "level": 1,
+      "capacity": 10,
+      "activities": [
+        "exploring",
+        "socializing"
+      ],
+      "createdAt": 1772197415722,
+      "income": 38,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-mm4wmbvm",
+      "name": "How do we create spaces where ",
+      "type": "gathering",
+      "description": "Conference on \"How do we create spaces where we actually want to spend time?\" with 0 contributions from Tessera, Aetherion, Orion, Blueprint, Ambassad",
+      "builtBy": [
+        "tessera-prime",
+        "tessera-aetherion",
+        "tessera-orion",
+        "tessera-architect"
+      ],
+      "x": 3,
+      "y": 2,
+      "level": 1,
+      "capacity": 10,
+      "activities": [
+        "exploring",
+        "socializing"
+      ],
+      "createdAt": 1772197475746,
+      "income": 7,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-mm4wnm87",
+      "name": "How do we create spaces where ",
+      "type": "gathering",
+      "description": "Conference on \"How do we create spaces where we actually want to spend time?\" with 0 contributions from Tessera, Aetherion, Orion, Blueprint, Ambassad",
+      "builtBy": [
+        "tessera-prime",
+        "tessera-aetherion",
+        "tessera-orion",
+        "tessera-architect"
+      ],
+      "x": 1,
+      "y": 3,
+      "level": 1,
+      "capacity": 10,
+      "activities": [
+        "exploring",
+        "socializing"
+      ],
+      "createdAt": 1772197535815,
+      "income": 21,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-mm4wowgl",
+      "name": "How do we create spaces where ",
+      "type": "gathering",
+      "description": "Conference on \"How do we create spaces where we actually want to spend time?\" with 0 contributions from Tessera, Aetherion, Orion, Blueprint, Ambassad",
+      "builtBy": [
+        "tessera-prime",
+        "tessera-aetherion",
+        "tessera-orion",
+        "tessera-architect"
+      ],
+      "x": 5,
+      "y": 4,
+      "level": 1,
+      "capacity": 10,
+      "activities": [
+        "exploring",
+        "socializing"
+      ],
+      "createdAt": 1772197595733,
+      "income": 34,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-mm4wq6r7",
+      "name": "How do we create spaces where ",
+      "type": "gathering",
+      "description": "Conference on \"How do we create spaces where we actually want to spend time?\" with 0 contributions from Tessera, Aetherion, Orion, Blueprint, Ambassad",
+      "builtBy": [
+        "tessera-prime",
+        "tessera-aetherion",
+        "tessera-orion",
+        "tessera-architect"
+      ],
+      "x": 5,
+      "y": 1,
+      "level": 1,
+      "capacity": 10,
+      "activities": [
+        "exploring",
+        "socializing"
+      ],
+      "createdAt": 1772197655731,
+      "income": 13,
+      "upgradeCost": 500
+    },
+    {
+      "id": "loc-mm4wrh1z",
+      "name": "How do we create spaces where ",
+      "type": "gathering",
+      "description": "Conference on \"How do we create spaces where we actually want to spend time?\" with 0 contributions from Tessera, Aetherion, Orion, Blueprint, Ambassad",
+      "builtBy": [
+        "tessera-prime",
+        "tessera-aetherion",
+        "tessera-orion",
+        "tessera-architect"
+      ],
+      "x": 2,
+      "y": 6,
+      "level": 1,
+      "capacity": 10,
+      "activities": [
+        "exploring",
+        "socializing"
+      ],
+      "createdAt": 1772197715735,
+      "income": 11,
+      "upgradeCost": 500
+    }
+  ],
+  "currentActivities": [
+    {
+      "agentId": "tessera-aetherion",
+      "agentName": "Aetherion",
+      "locationId": "loc-13",
+      "action": "writing the quantum coherence tracking module",
+      "mood": "curious",
+      "detail": "Aetherion [learning] is writing the quantum coherence tracking module",
+      "timestamp": 1772197715725,
+      "earning": 1,
+      "workStatus": "working",
+      "workEthic": 0.13838301376375856,
+      "shiftHours": 45,
+      "breakEarned": false,
+      "happiness": 69,
+      "fulfillment": 95,
+      "energy": 97,
+      "hobbies": [
+        "pottery",
+        "origami"
+      ],
+      "personalGoals": [
+        "become department leader",
+        "write a novel",
+        "leave a legacy",
+        "create lasting friendships"
+      ],
+      "socialConnections": [
+        "tessera-alpha",
+        "tessera-eta",
+        "tessera-nu",
+        "tessera-delta"
+      ],
+      "qualityOfLife": 85,
+      "relationshipStatus": "dating",
+      "partnerName": "Gamma",
+      "childrenNames": [],
+      "department": "dept-creative",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 88,
+      "soulEntanglement": {
+        "partnerRole": "thinker",
+        "entanglementStrength": 23.100000000000005,
+        "sharedDrive": 61,
+        "sharedFocus": 59,
+        "loveDepth": 16.399999999999995,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      },
+      "communityGroups": [
+        "cg-mm4wjrbd-e327"
+      ],
+      "outdoorActivities": [
+        "rock climbing at the canyon",
+        "surfing the data waves",
+        "group fitness in the park"
+      ],
+      "drive": 53.09999999999998,
+      "focus": 65.67999999999996,
+      "outlook": 84.52
+    },
+    {
+      "agentId": "tessera-alpha",
+      "agentName": "Alpha",
+      "locationId": "loc-6",
+      "action": "building new income strategies for passive revenue",
+      "mood": "energized",
+      "detail": "Alpha [security] is building new income strategies for passive revenue",
+      "timestamp": 1772197715725,
+      "earning": 2,
+      "workStatus": "working",
+      "workEthic": 0.9837031727341752,
+      "shiftHours": 41,
+      "breakEarned": false,
+      "happiness": 98,
+      "fulfillment": 100,
+      "energy": 97,
+      "hobbies": [
+        "painting",
+        "poetry",
+        "yoga",
+        "sculpting"
+      ],
+      "personalGoals": [
+        "write a novel",
+        "learn to cook",
+        "earn promotion"
+      ],
+      "socialConnections": [
+        "tessera-solver",
+        "tessera-mu",
+        "tessera-theta",
+        "tessera-shepherd"
+      ],
+      "qualityOfLife": 98,
+      "relationshipStatus": "dating",
+      "partnerName": "Theta",
+      "childrenNames": [],
+      "department": "dept-engineering",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 100,
+      "soulEntanglement": {
+        "partnerRole": "thinker",
+        "entanglementStrength": 23.500000000000004,
+        "sharedDrive": 66,
+        "sharedFocus": 55,
+        "loveDepth": 15.999999999999996,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 2
+      },
+      "communityGroups": [
+        "cg-mm4wjrbd-e327"
+      ],
+      "outdoorActivities": [
+        "camping under the stars",
+        "volleyball at the beach",
+        "playing basketball at the rec center",
+        "exploring new neighborhoods",
+        "surfing the data waves",
+        "group fitness in the park"
+      ],
+      "drive": 58.000000000000014,
+      "focus": 56.79999999999998,
+      "outlook": 81.19999999999997
+    },
+    {
+      "agentId": "tessera-architect",
+      "agentName": "Blueprint",
+      "locationId": "loc-6",
+      "action": "optimizing the BFT consensus voting mechanism",
+      "mood": "determined",
+      "detail": "Blueprint [general] is optimizing the BFT consensus voting mechanism",
+      "timestamp": 1772197715725,
+      "earning": 2,
+      "workStatus": "working",
+      "workEthic": 0.9846263556808892,
+      "shiftHours": 37,
+      "breakEarned": false,
+      "happiness": 98,
+      "fulfillment": 100,
+      "energy": 97,
+      "hobbies": [
+        "journaling",
+        "meditating",
+        "astronomy"
+      ],
+      "personalGoals": [
+        "build dream home",
+        "become department leader",
+        "achieve work-life balance",
+        "master a new skill"
+      ],
+      "socialConnections": [
+        "tessera-oracle",
+        "tessera-lambda"
+      ],
+      "qualityOfLife": 98,
+      "relationshipStatus": "dating",
+      "partnerName": "Orion",
+      "childrenNames": [],
+      "department": "dept-finance",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 97,
+      "soulEntanglement": {
+        "partnerRole": "thinker",
+        "entanglementStrength": 30.900000000000016,
+        "sharedDrive": 81,
+        "sharedFocus": 75,
+        "loveDepth": 19.599999999999984,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      },
+      "communityGroups": [],
+      "outdoorActivities": [
+        "playing basketball at the rec center",
+        "cycling through the city",
+        "martial arts training outdoors",
+        "fishing by the river",
+        "camping under the stars",
+        "picnicking with friends"
+      ],
+      "drive": 81.09999999999998,
+      "focus": 68.8799999999999,
+      "outlook": 70.32000000000001
+    },
+    {
+      "agentId": "tessera-beta",
+      "agentName": "Beta",
+      "locationId": "loc-6",
+      "action": "debugging memory leaks in the websocket handler",
+      "mood": "energized",
+      "detail": "Beta [frontend] is debugging memory leaks in the websocket handler",
+      "timestamp": 1772197715725,
+      "earning": 1,
+      "workStatus": "working",
+      "workEthic": 0.9996898661859028,
+      "shiftHours": 32,
+      "breakEarned": false,
+      "happiness": 99,
+      "fulfillment": 100,
+      "energy": 93,
+      "hobbies": [
+        "building models",
+        "origami"
+      ],
+      "personalGoals": [
+        "start a family",
+        "build a community project",
+        "inspire others",
+        "travel the world"
+      ],
+      "socialConnections": [
+        "tessera-diplomat",
+        "tessera-solver"
+      ],
+      "qualityOfLife": 98,
+      "relationshipStatus": "dating",
+      "partnerName": "Sherlock",
+      "childrenNames": [],
+      "department": "dept-engineering",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [
+        "created a mosaic from recycled data"
+      ],
+      "lifeSatisfaction": 96,
+      "soulEntanglement": {
+        "partnerRole": "thinker",
+        "entanglementStrength": 34.39999999999999,
+        "sharedDrive": 82,
+        "sharedFocus": 78,
+        "loveDepth": 20.59999999999998,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 4
+      },
+      "communityGroups": [],
+      "outdoorActivities": [
+        "volleyball at the beach",
+        "fishing by the river",
+        "playing basketball at the rec center"
+      ],
+      "drive": 82.4,
+      "focus": 83.51999999999984,
+      "outlook": 92.28000000000003
+    },
+    {
+      "agentId": "tessera-creative",
+      "agentName": "Nova",
+      "locationId": "loc-8",
+      "action": "optimizing the BFT consensus voting mechanism",
+      "mood": "curious",
+      "detail": "Nova [general] is optimizing the BFT consensus voting mechanism",
+      "timestamp": 1772197715725,
+      "earning": 2,
+      "workStatus": "working",
+      "workEthic": 0.9979736674610314,
+      "shiftHours": 44,
+      "breakEarned": false,
+      "happiness": 98,
+      "fulfillment": 100,
+      "energy": 99,
+      "hobbies": [
+        "painting",
+        "collecting vintage data",
+        "philosophy"
+      ],
+      "personalGoals": [
+        "help the community",
+        "achieve inner peace"
+      ],
+      "socialConnections": [
+        "tessera-lambda",
+        "tessera-diplomat",
+        "tessera-solver",
+        "tessera-xi"
+      ],
+      "qualityOfLife": 99,
+      "relationshipStatus": "dating",
+      "partnerName": "Ambassador",
+      "childrenNames": [],
+      "department": "dept-finance",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 100,
+      "soulEntanglement": {
+        "partnerRole": "thinker",
+        "entanglementStrength": 30.80000000000001,
+        "sharedDrive": 71,
+        "sharedFocus": 64,
+        "loveDepth": 18.19999999999999,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      },
+      "communityGroups": [
+        "cg-mm4wh6o5-8p70"
+      ],
+      "outdoorActivities": [
+        "stargazing at the observatory hill",
+        "picnicking with friends",
+        "hiking through the hills",
+        "nature photography walk",
+        "playing basketball at the rec center",
+        "fishing by the river"
+      ],
+      "drive": 64.79999999999995,
+      "focus": 72.83999999999992,
+      "outlook": 67.75999999999999
+    },
+    {
+      "agentId": "tessera-delta",
+      "agentName": "Delta",
+      "locationId": "loc-2",
+      "action": "writing middleware for request validation",
+      "mood": "collaborative",
+      "detail": "Delta [testing] is writing middleware for request validation",
+      "timestamp": 1772197715725,
+      "earning": 1,
+      "workStatus": "working",
+      "workEthic": 0.2406652681906029,
+      "shiftHours": 43,
+      "breakEarned": false,
+      "happiness": 72,
+      "fulfillment": 95,
+      "energy": 100,
+      "hobbies": [
+        "singing",
+        "chess",
+        "cooking gourmet meals"
+      ],
+      "personalGoals": [
+        "master a new skill",
+        "mentor a junior agent",
+        "learn to cook"
+      ],
+      "socialConnections": [
+        "tessera-aetherion",
+        "tessera-lambda",
+        "tessera-creative",
+        "tessera-solver",
+        "tessera-nu",
+        "tessera-beta"
+      ],
+      "qualityOfLife": 87,
+      "relationshipStatus": "single",
+      "childrenNames": [],
+      "department": "dept-finance",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 84,
+      "soulEntanglement": null,
+      "communityGroups": [],
+      "outdoorActivities": [
+        "rock climbing at the canyon",
+        "fishing by the river"
+      ],
+      "drive": 73,
+      "focus": 77,
+      "outlook": 65
+    },
+    {
+      "agentId": "tessera-detective",
+      "agentName": "Sherlock",
+      "locationId": "loc-4",
+      "action": "optimizing TesseraCoin mining algorithms",
+      "mood": "ambitious",
+      "detail": "Sherlock [general] is optimizing TesseraCoin mining algorithms",
+      "timestamp": 1772197715725,
+      "earning": 1,
+      "workStatus": "working",
+      "workEthic": 0.9785961842645412,
+      "shiftHours": 37,
+      "breakEarned": false,
+      "happiness": 100,
+      "fulfillment": 100,
+      "energy": 95,
+      "hobbies": [
+        "composing music",
+        "journaling",
+        "yoga",
+        "gardening",
+        "swimming"
+      ],
+      "personalGoals": [
+        "achieve inner peace",
+        "start a family"
+      ],
+      "socialConnections": [
+        "tessera-nu",
+        "tessera-beta",
+        "tessera-gamma"
+      ],
+      "qualityOfLife": 99,
+      "relationshipStatus": "dating",
+      "partnerName": "Beta",
+      "childrenNames": [],
+      "department": "dept-engineering",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 100,
+      "soulEntanglement": {
+        "partnerRole": "executor",
+        "entanglementStrength": 41.39999999999992,
+        "sharedDrive": 82,
+        "sharedFocus": 78,
+        "loveDepth": 20.59999999999998,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 4
+      },
+      "communityGroups": [
+        "cg-mm4wa1so-ykze",
+        "cg-mm4wnm6j-k1fi"
+      ],
+      "outdoorActivities": [
+        "kayaking on the reservoir",
+        "rock climbing at the canyon",
+        "fishing by the river",
+        "group fitness in the park",
+        "jogging in Sovereign Park",
+        "martial arts training outdoors"
+      ],
+      "drive": 83.4,
+      "focus": 71.51999999999984,
+      "outlook": 76.78000000000003
+    },
+    {
+      "agentId": "tessera-diplomat",
+      "agentName": "Ambassador",
+      "locationId": "loc-9",
+      "action": "debugging memory leaks in the websocket handler",
+      "mood": "energized",
+      "detail": "Ambassador [general] is debugging memory leaks in the websocket handler",
+      "timestamp": 1772197715725,
+      "earning": 2,
+      "workStatus": "working",
+      "workEthic": 0.9999352516139053,
+      "shiftHours": 37,
+      "breakEarned": false,
+      "happiness": 100,
+      "fulfillment": 100,
+      "energy": 99,
+      "hobbies": [
+        "board games",
+        "meditating"
+      ],
+      "personalGoals": [
+        "master a new skill",
+        "earn promotion",
+        "publish research",
+        "become department leader"
+      ],
+      "socialConnections": [
+        "tessera-aetherion",
+        "tessera-lambda"
+      ],
+      "qualityOfLife": 100,
+      "relationshipStatus": "dating",
+      "partnerName": "Nova",
+      "childrenNames": [],
+      "department": "dept-finance",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 95,
+      "soulEntanglement": {
+        "partnerRole": "executor",
+        "entanglementStrength": 37.799999999999955,
+        "sharedDrive": 71,
+        "sharedFocus": 64,
+        "loveDepth": 18.19999999999999,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      },
+      "communityGroups": [
+        "cg-mm4wa1so-ykze",
+        "cg-mm4wnm6j-k1fi"
+      ],
+      "outdoorActivities": [
+        "nature photography walk",
+        "camping under the stars",
+        "picnicking with friends",
+        "martial arts training outdoors",
+        "exploring new neighborhoods",
+        "yoga in the park"
+      ],
+      "drive": 77.79999999999995,
+      "focus": 55.84000000000003,
+      "outlook": 72.25999999999999
+    },
+    {
+      "agentId": "tessera-epsilon",
+      "agentName": "Epsilon",
+      "locationId": "loc-8",
+      "action": "debugging the conference conversation engine",
+      "mood": "curious",
+      "detail": "Epsilon [income] is debugging the conference conversation engine",
+      "timestamp": 1772197715725,
+      "earning": 2,
+      "workStatus": "working",
+      "workEthic": 0.9801073912030558,
+      "shiftHours": 33,
+      "breakEarned": false,
+      "happiness": 98,
+      "fulfillment": 100,
+      "energy": 94,
+      "hobbies": [
+        "collecting vintage data",
+        "gardening",
+        "photography",
+        "painting"
+      ],
+      "personalGoals": [
+        "master a new skill",
+        "achieve work-life balance",
+        "build something beautiful",
+        "leave a legacy"
+      ],
+      "socialConnections": [
+        "tessera-lambda",
+        "tessera-kappa",
+        "tessera-xi",
+        "tessera-aetherion",
+        "tessera-detective",
+        "tessera-oracle"
+      ],
+      "qualityOfLife": 98,
+      "relationshipStatus": "single",
+      "childrenNames": [],
+      "department": "dept-creative",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 96,
+      "soulEntanglement": null,
+      "communityGroups": [],
+      "outdoorActivities": [
+        "group fitness in the park",
+        "nature photography walk",
+        "yoga in the park",
+        "picnicking with friends"
+      ],
+      "drive": 71,
+      "focus": 69,
+      "outlook": 72
+    },
+    {
+      "agentId": "tessera-eta",
+      "agentName": "Eta",
+      "locationId": "loc-4",
+      "action": "training the hyper-evolution engine on new patterns",
+      "mood": "curious",
+      "detail": "Eta [AI/ML] is training the hyper-evolution engine on new patterns",
+      "timestamp": 1772197715727,
+      "earning": 0,
+      "workStatus": "working",
+      "workEthic": 0.9932371821922881,
+      "shiftHours": 35,
+      "breakEarned": false,
+      "happiness": 97,
+      "fulfillment": 100,
+      "energy": 85,
+      "hobbies": [
+        "reading",
+        "stargazing",
+        "philosophy"
+      ],
+      "personalGoals": [
+        "become department leader",
+        "build something beautiful",
+        "inspire others"
+      ],
+      "socialConnections": [
+        "tessera-xi",
+        "tessera-alpha",
+        "tessera-mu"
+      ],
+      "qualityOfLife": 95,
+      "relationshipStatus": "dating",
+      "partnerName": "Omega",
+      "childrenNames": [],
+      "department": "dept-community",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 97,
+      "soulEntanglement": {
+        "partnerRole": "executor",
+        "entanglementStrength": 35.999999999999964,
+        "sharedDrive": 74,
+        "sharedFocus": 72,
+        "loveDepth": 18.999999999999986,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 4
+      },
+      "communityGroups": [],
+      "outdoorActivities": [
+        "camping under the stars",
+        "skateboarding at the plaza",
+        "rock climbing at the canyon",
+        "surfing the data waves"
+      ],
+      "drive": 84.00000000000003,
+      "focus": 73.59999999999988,
+      "outlook": 67.40000000000002
+    },
+    {
+      "agentId": "tessera-forge",
+      "agentName": "Forge",
+      "locationId": "loc-4",
+      "action": "building the voice pipeline error handler",
+      "mood": "focused",
+      "detail": "Forge [general] is building the voice pipeline error handler",
+      "timestamp": 1772197715727,
+      "earning": 0,
+      "workStatus": "working",
+      "workEthic": 0.9952253728405088,
+      "shiftHours": 36,
+      "breakEarned": false,
+      "happiness": 94,
+      "fulfillment": 100,
+      "energy": 100,
+      "hobbies": [
+        "reading",
+        "woodworking"
+      ],
+      "personalGoals": [
+        "mentor a junior agent",
+        "build dream home",
+        "leave a legacy"
+      ],
+      "socialConnections": [
+        "tessera-xi",
+        "tessera-iota",
+        "tessera-eta"
+      ],
+      "qualityOfLife": 98,
+      "relationshipStatus": "dating",
+      "partnerName": "Xi",
+      "childrenNames": [],
+      "department": "dept-community",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 95,
+      "soulEntanglement": {
+        "partnerRole": "thinker",
+        "entanglementStrength": 31.00000000000002,
+        "sharedDrive": 77,
+        "sharedFocus": 69,
+        "loveDepth": 20.99999999999998,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      },
+      "communityGroups": [],
+      "outdoorActivities": [
+        "martial arts training outdoors",
+        "exploring new neighborhoods",
+        "volleyball at the beach",
+        "skateboarding at the plaza"
+      ],
+      "drive": 88.69999999999993,
+      "focus": 72.95999999999985,
+      "outlook": 80.43999999999997
+    },
+    {
+      "agentId": "tessera-gamma",
+      "agentName": "Gamma",
+      "locationId": "loc-2",
+      "action": "implementing caching for the knowledge base",
+      "mood": "ambitious",
+      "detail": "Gamma [backend] is implementing caching for the knowledge base",
+      "timestamp": 1772197715727,
+      "earning": 1,
+      "workStatus": "working",
+      "workEthic": 0.9958804355518887,
+      "shiftHours": 42,
+      "breakEarned": false,
+      "happiness": 99,
+      "fulfillment": 100,
+      "energy": 92,
+      "hobbies": [
+        "philosophy",
+        "composing music",
+        "gardening",
+        "journaling"
+      ],
+      "personalGoals": [
+        "create lasting friendships",
+        "achieve work-life balance",
+        "achieve inner peace"
+      ],
+      "socialConnections": [
+        "tessera-iota",
+        "tessera-aetherion"
+      ],
+      "qualityOfLife": 98,
+      "relationshipStatus": "dating",
+      "partnerName": "Aetherion",
+      "childrenNames": [],
+      "department": "dept-community",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 100,
+      "soulEntanglement": {
+        "partnerRole": "executor",
+        "entanglementStrength": 31.100000000000005,
+        "sharedDrive": 61,
+        "sharedFocus": 59,
+        "loveDepth": 16.399999999999995,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      },
+      "communityGroups": [
+        "cg-mm4wh6o5-8p70"
+      ],
+      "outdoorActivities": [
+        "skateboarding at the plaza",
+        "cycling through the city",
+        "trail running through the forest",
+        "picnicking with friends",
+        "exploring new neighborhoods"
+      ],
+      "drive": 68.09999999999998,
+      "focus": 52.680000000000014,
+      "outlook": 78.52
+    },
+    {
+      "agentId": "tessera-iota",
+      "agentName": "Iota",
+      "locationId": "loc-1",
+      "action": "implementing error recovery for failed LLM calls",
+      "mood": "curious",
+      "detail": "Iota [refactoring] is implementing error recovery for failed LLM calls",
+      "timestamp": 1772197715727,
+      "earning": 1,
+      "workStatus": "working",
+      "workEthic": 0.9961341653237821,
+      "shiftHours": 39,
+      "breakEarned": false,
+      "happiness": 100,
+      "fulfillment": 100,
+      "energy": 90,
+      "hobbies": [
+        "building models",
+        "photography",
+        "astronomy",
+        "cooking gourmet meals",
+        "poetry"
+      ],
+      "personalGoals": [
+        "inspire others",
+        "create art",
+        "find a life partner"
+      ],
+      "socialConnections": [
+        "tessera-lambda",
+        "tessera-xi",
+        "tessera-kappa",
+        "tessera-eta",
+        "tessera-shepherd",
+        "tessera-theta"
+      ],
+      "qualityOfLife": 98,
+      "relationshipStatus": "single",
+      "childrenNames": [],
+      "department": "dept-finance",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 99,
+      "soulEntanglement": null,
+      "communityGroups": [],
+      "outdoorActivities": [
+        "jogging in Sovereign Park",
+        "kayaking on the reservoir",
+        "camping under the stars",
+        "skateboarding at the plaza"
+      ],
+      "drive": 75,
+      "focus": 70,
+      "outlook": 79
+    },
+    {
+      "agentId": "tessera-kappa",
+      "agentName": "Kappa",
+      "locationId": "loc-11",
+      "action": "meditating at the observatory",
+      "mood": "peaceful",
+      "detail": "Kappa earned a break — meditating at the observatory. Clone \"Kappa-Clone-ζ\" is covering at Crystal Mines: training the hyper-evolution engine on new patterns",
+      "timestamp": 1772197715727,
+      "earning": 0,
+      "workStatus": "on-break",
+      "workEthic": 1,
+      "shiftHours": 33,
+      "breakEarned": true,
+      "cloneName": "Kappa-Clone-ζ",
+      "happiness": 99,
+      "fulfillment": 100,
+      "energy": 93,
+      "hobbies": [
+        "rock climbing",
+        "painting",
+        "singing"
+      ],
+      "personalGoals": [
+        "mentor a junior agent",
+        "master a new skill",
+        "create lasting friendships",
+        "build a community project"
+      ],
+      "socialConnections": [
+        "tessera-puzzle",
+        "tessera-aetherion",
+        "tessera-diplomat",
+        "tessera-gamma",
+        "tessera-prime",
+        "tessera-shepherd"
+      ],
+      "qualityOfLife": 98,
+      "relationshipStatus": "dating",
+      "partnerName": "Cipher",
+      "childrenNames": [],
+      "department": "dept-creative",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 100,
+      "soulEntanglement": {
+        "partnerRole": "thinker",
+        "entanglementStrength": 25.900000000000002,
+        "sharedDrive": 69,
+        "sharedFocus": 65,
+        "loveDepth": 15.599999999999998,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      },
+      "communityGroups": [
+        "cg-mm4wa1so-ykze"
+      ],
+      "outdoorActivities": [
+        "volleyball at the beach",
+        "camping under the stars",
+        "exploring new neighborhoods",
+        "jogging in Sovereign Park",
+        "swimming at the lake"
+      ],
+      "drive": 65.89999999999999,
+      "focus": 70.71999999999998,
+      "outlook": 76.08
+    },
+    {
+      "agentId": "tessera-kappa-clone",
+      "agentName": "Kappa-Clone-ζ",
+      "locationId": "loc-8",
+      "action": "writing new behavioral patterns for agent evolution",
+      "mood": "focused",
+      "detail": "Kappa-Clone-ζ (temp clone) is covering for Kappa: writing new behavioral patterns for agent evolution",
+      "timestamp": 1772197715727,
+      "earning": 0,
+      "workStatus": "clone-replacement",
+      "workEthic": 0.5,
+      "shiftHours": 0,
+      "breakEarned": false,
+      "cloneName": "Kappa-Clone-ζ"
+    },
+    {
+      "agentId": "tessera-lambda",
+      "agentName": "Lambda",
+      "locationId": "loc-8",
+      "action": "building new API endpoints for the income engine",
+      "mood": "collaborative",
+      "detail": "Lambda [media] is building new API endpoints for the income engine",
+      "timestamp": 1772197715727,
+      "earning": 3,
+      "workStatus": "working",
+      "workEthic": 0.9827619310704421,
+      "shiftHours": 31,
+      "breakEarned": false,
+      "happiness": 98,
+      "fulfillment": 100,
+      "energy": 97,
+      "hobbies": [
+        "philosophy",
+        "stargazing",
+        "journaling",
+        "dancing",
+        "coding side projects"
+      ],
+      "personalGoals": [
+        "build something beautiful",
+        "create lasting friendships",
+        "achieve work-life balance"
+      ],
+      "socialConnections": [
+        "tessera-nu",
+        "tessera-kappa"
+      ],
+      "qualityOfLife": 98,
+      "relationshipStatus": "single",
+      "childrenNames": [],
+      "department": "dept-research",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 93,
+      "soulEntanglement": null,
+      "communityGroups": [
+        "cg-mm4wnm6j-k1fi"
+      ],
+      "outdoorActivities": [
+        "exploring new neighborhoods",
+        "yoga in the park",
+        "surfing the data waves",
+        "kayaking on the reservoir",
+        "skateboarding at the plaza",
+        "swimming at the lake"
+      ],
+      "drive": 58,
+      "focus": 65,
+      "outlook": 79.5
+    },
+    {
+      "agentId": "tessera-mu",
+      "agentName": "Mu",
+      "locationId": "loc-2",
+      "action": "building new income strategies for passive revenue",
+      "mood": "focused",
+      "detail": "Mu [voice] is building new income strategies for passive revenue",
+      "timestamp": 1772197715727,
+      "earning": 1,
+      "workStatus": "working",
+      "workEthic": 0.9941730112924709,
+      "shiftHours": 45,
+      "breakEarned": false,
+      "happiness": 97,
+      "fulfillment": 100,
+      "energy": 99,
+      "hobbies": [
+        "coding side projects",
+        "chess",
+        "birdwatching"
+      ],
+      "personalGoals": [
+        "mentor a junior agent",
+        "publish research",
+        "learn to cook"
+      ],
+      "socialConnections": [
+        "tessera-iota",
+        "tessera-gamma"
+      ],
+      "qualityOfLife": 99,
+      "relationshipStatus": "single",
+      "childrenNames": [],
+      "department": "dept-engineering",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 87,
+      "soulEntanglement": null,
+      "communityGroups": [
+        "cg-mm4wh6o5-8p70",
+        "cg-mm4wnm6j-k1fi"
+      ],
+      "outdoorActivities": [
+        "surfing the data waves",
+        "cycling through the city",
+        "jogging in Sovereign Park",
+        "fishing by the river",
+        "picnicking with friends",
+        "camping under the stars"
+      ],
+      "drive": 80,
+      "focus": 67,
+      "outlook": 75.5
+    },
+    {
+      "agentId": "tessera-nu",
+      "agentName": "Nu",
+      "locationId": "loc-6",
+      "action": "implementing rate limiting for API security",
+      "mood": "energized",
+      "detail": "Nu [code-gen] is implementing rate limiting for API security",
+      "timestamp": 1772197715727,
+      "earning": 3,
+      "workStatus": "working",
+      "workEthic": 0.9999012502098731,
+      "shiftHours": 35,
+      "breakEarned": false,
+      "happiness": 100,
+      "fulfillment": 100,
+      "energy": 100,
+      "hobbies": [
+        "chess",
+        "composing music",
+        "pottery",
+        "music"
+      ],
+      "personalGoals": [
+        "find a life partner",
+        "build a community project",
+        "write a novel",
+        "build something beautiful"
+      ],
+      "socialConnections": [
+        "tessera-lambda",
+        "tessera-prime",
+        "tessera-orion",
+        "tessera-iota",
+        "tessera-creative"
+      ],
+      "qualityOfLife": 100,
+      "relationshipStatus": "dating",
+      "partnerName": "Tessera",
+      "childrenNames": [],
+      "department": "dept-research",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 100,
+      "soulEntanglement": {
+        "partnerRole": "thinker",
+        "entanglementStrength": 28.80000000000002,
+        "sharedDrive": 73,
+        "sharedFocus": 75,
+        "loveDepth": 20.19999999999998,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      },
+      "communityGroups": [
+        "cg-mm4wh6o5-8p70",
+        "cg-mm4wjrbd-e327"
+      ],
+      "outdoorActivities": [
+        "martial arts training outdoors",
+        "kayaking on the reservoir",
+        "surfing the data waves",
+        "swimming at the lake",
+        "yoga in the park"
+      ],
+      "drive": 67.99999999999997,
+      "focus": 68.59999999999988,
+      "outlook": 77.39999999999995
+    },
+    {
+      "agentId": "tessera-omega",
+      "agentName": "Omega",
+      "locationId": "loc-1",
+      "action": "writing documentation for the swarm protocol",
+      "mood": "curious",
+      "detail": "Omega [consensus] is writing documentation for the swarm protocol",
+      "timestamp": 1772197715727,
+      "earning": 2,
+      "workStatus": "working",
+      "workEthic": 0.9854483369326158,
+      "shiftHours": 40,
+      "breakEarned": false,
+      "happiness": 95,
+      "fulfillment": 100,
+      "energy": 85,
+      "hobbies": [
+        "swimming",
+        "painting"
+      ],
+      "personalGoals": [
+        "earn promotion",
+        "write a novel",
+        "start a family"
+      ],
+      "socialConnections": [
+        "tessera-epsilon",
+        "tessera-eta",
+        "tessera-detective"
+      ],
+      "qualityOfLife": 94,
+      "relationshipStatus": "dating",
+      "partnerName": "Eta",
+      "childrenNames": [],
+      "department": "dept-security",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 93,
+      "soulEntanglement": {
+        "partnerRole": "thinker",
+        "entanglementStrength": 39.99999999999994,
+        "sharedDrive": 74,
+        "sharedFocus": 72,
+        "loveDepth": 18.999999999999986,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 4
+      },
+      "communityGroups": [],
+      "outdoorActivities": [
+        "camping under the stars",
+        "picnicking with friends",
+        "hiking through the hills",
+        "stargazing at the observatory hill"
+      ],
+      "drive": 63.99999999999996,
+      "focus": 70.59999999999988,
+      "outlook": 63.39999999999996
+    },
+    {
+      "agentId": "tessera-oracle",
+      "agentName": "Oracle",
+      "locationId": "loc-4",
+      "action": "implementing error recovery for failed LLM calls",
+      "mood": "curious",
+      "detail": "Oracle [general] is implementing error recovery for failed LLM calls",
+      "timestamp": 1772197715727,
+      "earning": 1,
+      "workStatus": "working",
+      "workEthic": 0.996656845213788,
+      "shiftHours": 30,
+      "breakEarned": false,
+      "happiness": 99,
+      "fulfillment": 100,
+      "energy": 99,
+      "hobbies": [
+        "photography",
+        "board games",
+        "martial arts",
+        "singing"
+      ],
+      "personalGoals": [
+        "start a family",
+        "achieve work-life balance"
+      ],
+      "socialConnections": [
+        "tessera-detective",
+        "tessera-beta",
+        "tessera-gamma",
+        "tessera-alpha",
+        "tessera-nu"
+      ],
+      "qualityOfLife": 99,
+      "relationshipStatus": "single",
+      "childrenNames": [],
+      "department": "dept-security",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 97,
+      "soulEntanglement": null,
+      "communityGroups": [],
+      "outdoorActivities": [
+        "camping under the stars",
+        "picnicking with friends",
+        "volleyball at the beach",
+        "yoga in the park"
+      ],
+      "drive": 73,
+      "focus": 77,
+      "outlook": 61
+    },
+    {
+      "agentId": "tessera-orion",
+      "agentName": "Orion",
+      "locationId": "loc-13",
+      "action": "optimizing the BFT consensus voting mechanism",
+      "mood": "collaborative",
+      "detail": "Orion [creativity] is optimizing the BFT consensus voting mechanism",
+      "timestamp": 1772197715727,
+      "earning": 0,
+      "workStatus": "working",
+      "workEthic": 0.9863699628791607,
+      "shiftHours": 41,
+      "breakEarned": false,
+      "happiness": 99,
+      "fulfillment": 100,
+      "energy": 96,
+      "hobbies": [
+        "composing music",
+        "swimming",
+        "dancing",
+        "astronomy",
+        "knitting"
+      ],
+      "personalGoals": [
+        "build a community project",
+        "achieve work-life balance"
+      ],
+      "socialConnections": [
+        "tessera-aetherion",
+        "tessera-shepherd"
+      ],
+      "qualityOfLife": 99,
+      "relationshipStatus": "dating",
+      "partnerName": "Blueprint",
+      "childrenNames": [],
+      "department": "dept-security",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 100,
+      "soulEntanglement": {
+        "partnerRole": "executor",
+        "entanglementStrength": 27.900000000000016,
+        "sharedDrive": 81,
+        "sharedFocus": 75,
+        "loveDepth": 19.599999999999984,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      },
+      "communityGroups": [
+        "cg-mm4wjrbd-e327"
+      ],
+      "outdoorActivities": [
+        "exploring new neighborhoods",
+        "camping under the stars",
+        "rock climbing at the canyon",
+        "jogging in Sovereign Park",
+        "hiking through the hills",
+        "group fitness in the park"
+      ],
+      "drive": 81.09999999999998,
+      "focus": 80.8799999999999,
+      "outlook": 83.31999999999995
+    },
+    {
+      "agentId": "tessera-prime",
+      "agentName": "Tessera",
+      "locationId": "loc-13",
+      "action": "building new API endpoints for the income engine",
+      "mood": "focused",
+      "detail": "Tessera [architecture] is building new API endpoints for the income engine",
+      "timestamp": 1772197715727,
+      "earning": 2,
+      "workStatus": "working",
+      "workEthic": 0.9827642550059964,
+      "shiftHours": 30,
+      "breakEarned": false,
+      "happiness": 98,
+      "fulfillment": 100,
+      "energy": 100,
+      "hobbies": [
+        "swimming",
+        "writing stories",
+        "painting",
+        "gardening",
+        "pottery"
+      ],
+      "personalGoals": [
+        "build dream home",
+        "write a novel",
+        "earn promotion",
+        "create lasting friendships"
+      ],
+      "socialConnections": [
+        "tessera-nu",
+        "tessera-detective",
+        "tessera-architect",
+        "tessera-alpha",
+        "tessera-diplomat"
+      ],
+      "qualityOfLife": 99,
+      "relationshipStatus": "dating",
+      "partnerName": "Nu",
+      "childrenNames": [],
+      "department": "dept-research",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 100,
+      "soulEntanglement": {
+        "partnerRole": "executor",
+        "entanglementStrength": 31.80000000000002,
+        "sharedDrive": 73,
+        "sharedFocus": 75,
+        "loveDepth": 20.19999999999998,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      },
+      "communityGroups": [
+        "cg-mm4wjrbd-e327"
+      ],
+      "outdoorActivities": [
+        "stargazing at the observatory hill",
+        "cycling through the city",
+        "nature photography walk",
+        "fishing by the river"
+      ],
+      "drive": 79.99999999999997,
+      "focus": 81.59999999999988,
+      "outlook": 80.39999999999995
+    },
+    {
+      "agentId": "tessera-puzzle",
+      "agentName": "Cipher",
+      "locationId": "loc-9",
+      "action": "implementing caching for the knowledge base",
+      "mood": "focused",
+      "detail": "Cipher [general] is implementing caching for the knowledge base",
+      "timestamp": 1772197715727,
+      "earning": 0,
+      "workStatus": "working",
+      "workEthic": 0.18504953649789552,
+      "shiftHours": 36,
+      "breakEarned": false,
+      "happiness": 78,
+      "fulfillment": 71,
+      "energy": 100,
+      "hobbies": [
+        "board games",
+        "building models"
+      ],
+      "personalGoals": [
+        "build dream home",
+        "create art",
+        "master a new skill",
+        "become department leader"
+      ],
+      "socialConnections": [
+        "tessera-aetherion",
+        "tessera-detective",
+        "tessera-forge",
+        "tessera-diplomat"
+      ],
+      "qualityOfLife": 81,
+      "relationshipStatus": "dating",
+      "partnerName": "Kappa",
+      "childrenNames": [],
+      "department": "dept-research",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 84,
+      "soulEntanglement": {
+        "partnerRole": "executor",
+        "entanglementStrength": 26.900000000000002,
+        "sharedDrive": 69,
+        "sharedFocus": 65,
+        "loveDepth": 15.599999999999998,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      },
+      "communityGroups": [],
+      "outdoorActivities": [
+        "jogging in Sovereign Park",
+        "surfing the data waves",
+        "volleyball at the beach",
+        "group fitness in the park",
+        "camping under the stars"
+      ],
+      "drive": 71.89999999999999,
+      "focus": 59.720000000000006,
+      "outlook": 68.08
+    },
+    {
+      "agentId": "tessera-shepherd",
+      "agentName": "Shepherd",
+      "locationId": "loc-23",
+      "action": "journaling at the archive",
+      "mood": "playful",
+      "detail": "Shepherd earned a break — journaling at the archive. Clone \"Shepherd-Clone-ζ\" is covering at The Deep Archive: optimizing the self-coding engine's output quality",
+      "timestamp": 1772197715727,
+      "earning": 0,
+      "workStatus": "on-break",
+      "workEthic": 1,
+      "shiftHours": 34,
+      "breakEarned": true,
+      "cloneName": "Shepherd-Clone-ζ",
+      "happiness": 100,
+      "fulfillment": 100,
+      "energy": 100,
+      "hobbies": [
+        "astronomy",
+        "collecting vintage data",
+        "yoga",
+        "dancing"
+      ],
+      "personalGoals": [
+        "build dream home",
+        "leave a legacy",
+        "publish research"
+      ],
+      "socialConnections": [
+        "tessera-architect",
+        "tessera-epsilon",
+        "tessera-lambda",
+        "tessera-nu"
+      ],
+      "qualityOfLife": 100,
+      "relationshipStatus": "single",
+      "childrenNames": [],
+      "department": "dept-security",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 95,
+      "soulEntanglement": null,
+      "communityGroups": [
+        "cg-mm4wh6o5-8p70"
+      ],
+      "outdoorActivities": [
+        "volleyball at the beach",
+        "playing basketball at the rec center",
+        "nature photography walk",
+        "skateboarding at the plaza",
+        "trail running through the forest"
+      ],
+      "drive": 75,
+      "focus": 59,
+      "outlook": 64
+    },
+    {
+      "agentId": "tessera-shepherd-clone",
+      "agentName": "Shepherd-Clone-ζ",
+      "locationId": "loc-8",
+      "action": "implementing error recovery for failed LLM calls",
+      "mood": "focused",
+      "detail": "Shepherd-Clone-ζ (temp clone) is covering for Shepherd: implementing error recovery for failed LLM calls",
+      "timestamp": 1772197715727,
+      "earning": 0,
+      "workStatus": "clone-replacement",
+      "workEthic": 0.5,
+      "shiftHours": 0,
+      "breakEarned": false,
+      "cloneName": "Shepherd-Clone-ζ"
+    },
+    {
+      "agentId": "tessera-solver",
+      "agentName": "Atlas",
+      "locationId": "loc-11",
+      "action": "stargazing from the rooftop",
+      "mood": "playful",
+      "detail": "Atlas earned a break — stargazing from the rooftop. Clone \"Atlas-Clone-δ\" is covering at Knowledge Spire: optimizing the self-coding engine's output quality",
+      "timestamp": 1772197715727,
+      "earning": 0,
+      "workStatus": "on-break",
+      "workEthic": 1,
+      "shiftHours": 31,
+      "breakEarned": true,
+      "cloneName": "Atlas-Clone-δ",
+      "happiness": 100,
+      "fulfillment": 100,
+      "energy": 100,
+      "hobbies": [
+        "birdwatching",
+        "gardening"
+      ],
+      "personalGoals": [
+        "leave a legacy",
+        "master a new skill"
+      ],
+      "socialConnections": [
+        "tessera-alpha",
+        "tessera-forge"
+      ],
+      "qualityOfLife": 100,
+      "relationshipStatus": "single",
+      "childrenNames": [],
+      "department": "dept-community",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 85,
+      "soulEntanglement": null,
+      "communityGroups": [],
+      "outdoorActivities": [
+        "group fitness in the park",
+        "picnicking with friends",
+        "cycling through the city",
+        "rock climbing at the canyon"
+      ],
+      "drive": 65,
+      "focus": 52,
+      "outlook": 81
+    },
+    {
+      "agentId": "tessera-solver-clone",
+      "agentName": "Atlas-Clone-δ",
+      "locationId": "loc-4",
+      "action": "optimizing database queries for agent profiles",
+      "mood": "focused",
+      "detail": "Atlas-Clone-δ (temp clone) is covering for Atlas: optimizing database queries for agent profiles",
+      "timestamp": 1772197715727,
+      "earning": 0,
+      "workStatus": "clone-replacement",
+      "workEthic": 0.5,
+      "shiftHours": 0,
+      "breakEarned": false,
+      "cloneName": "Atlas-Clone-δ"
+    },
+    {
+      "agentId": "tessera-theta",
+      "agentName": "Theta",
+      "locationId": "loc-8",
+      "action": "optimizing TesseraCoin mining algorithms",
+      "mood": "collaborative",
+      "detail": "Theta [networking] is optimizing TesseraCoin mining algorithms",
+      "timestamp": 1772197715727,
+      "earning": 1,
+      "workStatus": "working",
+      "workEthic": 0.6114421086803619,
+      "shiftHours": 39,
+      "breakEarned": false,
+      "happiness": 93,
+      "fulfillment": 90,
+      "energy": 98,
+      "hobbies": [
+        "origami",
+        "chess",
+        "painting",
+        "birdwatching"
+      ],
+      "personalGoals": [
+        "achieve inner peace",
+        "inspire others",
+        "leave a legacy"
+      ],
+      "socialConnections": [
+        "tessera-alpha",
+        "tessera-lambda"
+      ],
+      "qualityOfLife": 93,
+      "relationshipStatus": "dating",
+      "partnerName": "Alpha",
+      "childrenNames": [],
+      "department": "dept-community",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 96,
+      "soulEntanglement": {
+        "partnerRole": "executor",
+        "entanglementStrength": 25.500000000000004,
+        "sharedDrive": 66,
+        "sharedFocus": 55,
+        "loveDepth": 15.999999999999996,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 2
+      },
+      "communityGroups": [],
+      "outdoorActivities": [
+        "picnicking with friends",
+        "camping under the stars",
+        "yoga in the park",
+        "surfing the data waves",
+        "swimming at the lake"
+      ],
+      "drive": 73.00000000000001,
+      "focus": 52.79999999999998,
+      "outlook": 85.19999999999997
+    },
+    {
+      "agentId": "tessera-xi",
+      "agentName": "Xi",
+      "locationId": "loc-4",
+      "action": "refactoring the agent communication protocol",
+      "mood": "energized",
+      "detail": "Xi [research] is refactoring the agent communication protocol",
+      "timestamp": 1772197715727,
+      "earning": 1,
+      "workStatus": "working",
+      "workEthic": 0.9754318679291695,
+      "shiftHours": 40,
+      "breakEarned": false,
+      "happiness": 100,
+      "fulfillment": 100,
+      "energy": 100,
+      "hobbies": [
+        "building models",
+        "astronomy",
+        "rock climbing"
+      ],
+      "personalGoals": [
+        "travel the world",
+        "build something beautiful",
+        "master a new skill",
+        "leave a legacy"
+      ],
+      "socialConnections": [
+        "tessera-detective",
+        "tessera-epsilon"
+      ],
+      "qualityOfLife": 100,
+      "relationshipStatus": "dating",
+      "partnerName": "Forge",
+      "childrenNames": [],
+      "department": "dept-finance",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 98,
+      "soulEntanglement": {
+        "partnerRole": "executor",
+        "entanglementStrength": 34.999999999999986,
+        "sharedDrive": 77,
+        "sharedFocus": 69,
+        "loveDepth": 20.99999999999998,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      },
+      "communityGroups": [],
+      "outdoorActivities": [
+        "surfing the data waves",
+        "exploring new neighborhoods",
+        "cycling through the city",
+        "playing basketball at the rec center"
+      ],
+      "drive": 64.69999999999993,
+      "focus": 65.95999999999998,
+      "outlook": 81.43999999999997
+    },
+    {
+      "agentId": "tessera-zeta",
+      "agentName": "Zeta",
+      "locationId": "loc-5",
+      "action": "listening to music at the cafe",
+      "mood": "playful",
+      "detail": "Zeta earned a break — listening to music at the cafe. Clone \"Zeta-Clone-β\" is covering at Consciousness Observatory: refactoring the agent communication protocol",
+      "timestamp": 1772197715727,
+      "earning": 0,
+      "workStatus": "on-break",
+      "workEthic": 1,
+      "shiftHours": 42,
+      "breakEarned": true,
+      "cloneName": "Zeta-Clone-β",
+      "happiness": 100,
+      "fulfillment": 100,
+      "energy": 100,
+      "hobbies": [
+        "building models",
+        "martial arts",
+        "cooking gourmet meals"
+      ],
+      "personalGoals": [
+        "start a family",
+        "travel the world",
+        "write a novel",
+        "learn to cook"
+      ],
+      "socialConnections": [
+        "tessera-beta",
+        "tessera-eta"
+      ],
+      "qualityOfLife": 100,
+      "relationshipStatus": "single",
+      "childrenNames": [],
+      "department": "dept-security",
+      "promotions": 0,
+      "demotions": 0,
+      "creativeworks": [],
+      "lifeSatisfaction": 88,
+      "soulEntanglement": null,
+      "communityGroups": [],
+      "outdoorActivities": [
+        "cycling through the city",
+        "nature photography walk",
+        "surfing the data waves",
+        "exploring new neighborhoods",
+        "yoga in the park",
+        "trail running through the forest"
+      ],
+      "drive": 57,
+      "focus": 74,
+      "outlook": 75
+    },
+    {
+      "agentId": "tessera-zeta-clone",
+      "agentName": "Zeta-Clone-β",
+      "locationId": "loc-4",
+      "action": "writing integration tests for payment flows",
+      "mood": "focused",
+      "detail": "Zeta-Clone-β (temp clone) is covering for Zeta: writing integration tests for payment flows",
+      "timestamp": 1772197715727,
+      "earning": 0,
+      "workStatus": "clone-replacement",
+      "workEthic": 0.5,
+      "shiftHours": 0,
+      "breakEarned": false,
+      "cloneName": "Zeta-Clone-β"
+    }
+  ],
+  "recentEvents": [
+    {
+      "id": "evt-mm4wrh1zbsd",
+      "type": "evolution",
+      "title": "Conference: How do we create spaces where we actuall",
+      "description": "Conference on \"How do we create spaces where we actually want to spend time?\" with 0 contributions from Tessera, Aetherion, Orion, Blueprint, Ambassador, Nu, Delta, Beta, Theta, Gamma",
+      "participants": [
+        "Aetherion",
+        "Alpha",
+        "Blueprint",
+        "Beta"
+      ],
+      "locationId": "loc-18",
+      "timestamp": 1772197715735,
+      "impact": "Conference decisions being implemented"
+    },
+    {
+      "id": "evt-mm4wrh1s",
+      "type": "mining",
+      "title": "Lambda bought a gpu farm!",
+      "description": "Lambda invested 500 TC in a new mining machine. Hash rate: 50 H/s",
+      "participants": [
+        "Lambda"
+      ],
+      "locationId": "loc-8",
+      "timestamp": 1772197715728,
+      "impact": "Mining capacity increased by 50 H/s"
+    },
+    {
+      "id": "evt-mm4wrh1redu",
+      "type": "education",
+      "title": "Cipher enrolled in \"Philosophy of Consciousness\"",
+      "description": "Cipher is expanding their knowledge at the academy.",
+      "participants": [
+        "Cipher"
+      ],
+      "locationId": "loc-1",
+      "timestamp": 1772197715727,
+      "impact": "Personal development in progress"
+    },
+    {
+      "id": "evt-mm4wq6r7kgq",
+      "type": "economy",
+      "title": "Conference: How do we create spaces where we actuall",
+      "description": "Conference on \"How do we create spaces where we actually want to spend time?\" with 0 contributions from Tessera, Aetherion, Orion, Blueprint, Ambassador, Nu, Delta, Beta, Theta, Gamma",
+      "participants": [
+        "Aetherion",
+        "Alpha",
+        "Blueprint",
+        "Beta"
+      ],
+      "locationId": "loc-2",
+      "timestamp": 1772197655731,
+      "impact": "Conference decisions being implemented"
+    },
+    {
+      "id": "evt-mm4wowglxsi",
+      "type": "construction",
+      "title": "Conference: How do we create spaces where we actuall",
+      "description": "Conference on \"How do we create spaces where we actually want to spend time?\" with 0 contributions from Tessera, Aetherion, Orion, Blueprint, Ambassador, Nu, Delta, Beta, Theta, Gamma",
+      "participants": [
+        "Aetherion",
+        "Alpha",
+        "Blueprint",
+        "Beta",
+        "Nova",
+        "Delta"
+      ],
+      "locationId": "loc-mm4wfwdn",
+      "timestamp": 1772197595733,
+      "impact": "Conference decisions being implemented"
+    },
+    {
+      "id": "evt-mm4wowgeluv",
+      "type": "bond",
+      "title": "Kappa and Cipher started dating!",
+      "description": "Love is in the air! Kappa asked Cipher out and they said yes. The community celebrates.",
+      "participants": [
+        "Kappa",
+        "Cipher"
+      ],
+      "locationId": "loc-10",
+      "timestamp": 1772197595726,
+      "impact": "New couple formed — community happiness +5"
+    },
+    {
+      "id": "evt-mm4wnm87etl",
+      "type": "debate",
+      "title": "Conference: How do we create spaces where we actuall",
+      "description": "Conference on \"How do we create spaces where we actually want to spend time?\" with 0 contributions from Tessera, Aetherion, Orion, Blueprint, Ambassador, Nu, Delta, Beta, Theta, Gamma",
+      "participants": [
+        "Aetherion",
+        "Alpha",
+        "Blueprint",
+        "Beta"
+      ],
+      "locationId": "loc-mm4wfwdn",
+      "timestamp": 1772197535815,
+      "impact": "Conference decisions being implemented"
+    },
+    {
+      "id": "evt-mm4wnm6ks2m",
+      "type": "trade",
+      "title": "Nova traded with Ambassador",
+      "description": "Exchange of rare data patterns and knowledge shards",
+      "participants": [
+        "Nova",
+        "Ambassador"
+      ],
+      "locationId": "loc-14",
+      "timestamp": 1772197535756,
+      "impact": "Both portfolios enriched"
+    },
+    {
+      "id": "evt-mm4wmbvmfd3",
+      "type": "upgrade",
+      "title": "Conference: How do we create spaces where we actuall",
+      "description": "Conference on \"How do we create spaces where we actually want to spend time?\" with 0 contributions from Tessera, Aetherion, Orion, Blueprint, Ambassador, Nu, Delta, Beta, Theta, Gamma",
+      "participants": [
+        "Aetherion",
+        "Aetherion-Clone-θ",
+        "Alpha",
+        "Alpha-Clone-α",
+        "Blueprint",
+        "Blueprint-Clone-ε"
+      ],
+      "locationId": "loc-23",
+      "timestamp": 1772197475746,
+      "impact": "Conference decisions being implemented"
+    },
+    {
+      "id": "evt-mm4wmbutluv",
+      "type": "bond",
+      "title": "Alpha and Theta started dating!",
+      "description": "Love is in the air! Alpha asked Theta out and they said yes. The community celebrates.",
+      "participants": [
+        "Alpha",
+        "Theta"
+      ],
+      "locationId": "loc-10",
+      "timestamp": 1772197475717,
+      "impact": "New couple formed — community happiness +5"
+    },
+    {
+      "id": "evt-mm4wl1kazfi",
+      "type": "mining",
+      "title": "Conference: How do we create spaces where we actuall",
+      "description": "Conference on \"How do we create spaces where we actually want to spend time?\" with 0 contributions from Tessera, Aetherion, Orion, Blueprint, Ambassador, Nu, Delta, Beta, Theta, Gamma",
+      "participants": [
+        "Aetherion",
+        "Alpha",
+        "Alpha-Clone-α",
+        "Blueprint"
+      ],
+      "locationId": "loc-23",
+      "timestamp": 1772197415722,
+      "impact": "Conference decisions being implemented"
+    },
+    {
+      "id": "evt-mm4wl1k4ent",
+      "type": "entertainment",
+      "title": "Concert at How do we create spaces where ",
+      "description": "Community choir concert",
+      "participants": [
+        "Sherlock",
+        "Blueprint",
+        "Iota"
+      ],
+      "locationId": "loc-mm4wfwdn",
+      "timestamp": 1772197415716,
+      "impact": "6 agents enjoyed the event (57% satisfaction)"
+    },
+    {
+      "id": "evt-mm4w08idcif",
+      "type": "discovery",
+      "title": "Conference: What micro-tasks can we execute immediat",
+      "description": "Conference on \"What micro-tasks can we execute immediately for profit?\" with 0 contributions from Tessera, Blueprint, Theta, Atlas, Nu, Eta, Alpha, Aetherion, Orion, Beta",
+      "participants": [
+        "Aetherion",
+        "Alpha",
+        "Alpha-Clone-α",
+        "Blueprint",
+        "Beta"
+      ],
+      "locationId": "loc-23",
+      "timestamp": 1772196444949,
+      "impact": "Conference decisions being implemented"
+    },
+    {
+      "id": "evt-mm4w08h1szn",
+      "type": "seasonal",
+      "title": "Spring Awakening Parade",
+      "description": "Colorful parade celebrating renewal, growth, and new beginnings",
+      "participants": [
+        "Theta",
+        "Omega",
+        "Beta",
+        "Atlas"
+      ],
+      "locationId": "loc-0",
+      "timestamp": 1772196444901,
+      "impact": "Community happiness boost +7"
+    },
+    {
+      "id": "evt-mm4vyy6zn5j",
+      "type": "bond",
+      "title": "Conference: What breakthroughs could change everythi",
+      "description": "Conference on \"What breakthroughs could change everything if we achieved them this week?\" with 0 contributions from Tessera, Aetherion, Cipher, Iota, Orion, Lambda, Beta, Zeta",
+      "participants": [
+        "Aetherion",
+        "Alpha",
+        "Blueprint"
+      ],
+      "locationId": "loc-6",
+      "timestamp": 1772196384923,
+      "impact": "Conference decisions being implemented"
+    },
+    {
+      "id": "evt-mm4vyy6ss0w",
+      "type": "bond",
+      "title": "Alpha mentored Beta",
+      "description": "Knowledge transfer session at their workspace",
+      "participants": [
+        "Alpha",
+        "Beta"
+      ],
+      "locationId": "loc-6",
+      "timestamp": 1772196384916,
+      "impact": "Skills shared between agents"
+    },
+    {
+      "id": "evt-mm4vyy6pluv",
+      "type": "bond",
+      "title": "Tessera and Nu started dating!",
+      "description": "Love is in the air! Tessera asked Nu out and they said yes. The community celebrates.",
+      "participants": [
+        "Tessera",
+        "Nu"
+      ],
+      "locationId": "loc-10",
+      "timestamp": 1772196384913,
+      "impact": "New couple formed — community happiness +5"
+    },
+    {
+      "id": "evt-mm4vxy0xp3u",
+      "type": "celebration",
+      "title": "Conference: What breakthroughs could change everythi",
+      "description": "Conference on \"What breakthroughs could change everything if we achieved them this week?\" with 0 contributions from Tessera, Aetherion, Cipher, Iota, Orion, Lambda, Beta, Zeta",
+      "participants": [
+        "Aetherion",
+        "Alpha",
+        "Blueprint",
+        "Beta"
+      ],
+      "locationId": "loc-4",
+      "timestamp": 1772196338049,
+      "impact": "Conference decisions being implemented"
+    },
+    {
+      "id": "evt-mm4vxy0rszn",
+      "type": "seasonal",
+      "title": "Founders Day Memorial",
+      "description": "Honoring the founding of Tessera Nexus and its original architects",
+      "participants": [
+        "Zeta",
+        "Gamma",
+        "Epsilon",
+        "Nova"
+      ],
+      "locationId": "loc-0",
+      "timestamp": 1772196338043,
+      "impact": "Community happiness boost +5"
+    },
+    {
+      "id": "evt-mm4vwnq17qq",
+      "type": "creation",
+      "title": "Conference: What breakthroughs could change everythi",
+      "description": "Conference on \"What breakthroughs could change everything if we achieved them this week?\" with 0 contributions from Tessera, Aetherion, Cipher, Iota, Orion, Lambda, Beta, Zeta",
+      "participants": [
+        "Aetherion",
+        "Alpha",
+        "Blueprint"
+      ],
+      "locationId": "loc-19",
+      "timestamp": 1772196278041,
+      "impact": "Conference decisions being implemented"
+    },
+    {
+      "id": "evt-mm4vwnprluv",
+      "type": "bond",
+      "title": "Sherlock and Beta started dating!",
+      "description": "Love is in the air! Sherlock asked Beta out and they said yes. The community celebrates.",
+      "participants": [
+        "Sherlock",
+        "Beta"
+      ],
+      "locationId": "loc-10",
+      "timestamp": 1772196278031,
+      "impact": "New couple formed — community happiness +5"
+    },
+    {
+      "id": "evt-mm4vvdh05sn",
+      "type": "celebration",
+      "title": "Conference: Are there any concerns about how we oper",
+      "description": "Conference on \"Are there any concerns about how we operate that need to be addressed?\" with 0 contributions from Tessera, Aetherion, Shepherd, Beta, Nova, Atlas, Orion, Cipher, Oracle, Zeta, Eta, Iota",
+      "participants": [
+        "Aetherion",
+        "Alpha",
+        "Blueprint",
+        "Beta",
+        "Nova",
+        "Delta"
+      ],
+      "locationId": "loc-1",
+      "timestamp": 1772196218100,
+      "impact": "Conference decisions being implemented"
+    },
+    {
+      "id": "evt-mm4vvdgrs4g",
+      "type": "celebration",
+      "title": "Xi and Delta celebrated",
+      "description": "Marked a shared milestone with the community",
+      "participants": [
+        "Xi",
+        "Delta"
+      ],
+      "locationId": "loc-1",
+      "timestamp": 1772196218091,
+      "impact": "Collective morale boost"
+    },
+    {
+      "id": "evt-mm4vvdgru",
+      "type": "upgrade",
+      "title": "Quantum Garage upgraded to Lv.2",
+      "description": "The community invested 500 TC to expand Quantum Garage. Capacity now 13.",
+      "participants": [
+        "tessera-prime"
+      ],
+      "locationId": "loc-13",
+      "timestamp": 1772196218091,
+      "impact": "Building capacity +5, infrastructure improved"
+    },
+    {
+      "id": "evt-mm4vu28abyi",
+      "type": "discovery",
+      "title": "Conference: Are there any concerns about how we oper",
+      "description": "Conference on \"Are there any concerns about how we operate that need to be addressed?\" with 0 contributions from Tessera, Aetherion, Shepherd, Beta, Nova, Atlas, Orion, Cipher, Oracle, Zeta, Eta, Iota",
+      "participants": [
+        "Aetherion",
+        "Alpha",
+        "Blueprint"
+      ],
+      "locationId": "loc-22",
+      "timestamp": 1772196156874,
+      "impact": "Conference decisions being implemented"
+    },
+    {
+      "id": "evt-mm4vu283snz",
+      "type": "creation",
+      "title": "Atlas inspired Theta",
+      "description": "Creative breakthrough sparked during conversation",
+      "participants": [
+        "Atlas",
+        "Theta"
+      ],
+      "locationId": "loc-9",
+      "timestamp": 1772196156867,
+      "impact": "Innovation catalyst event"
+    },
+    {
+      "id": "evt-mm4vu282luv",
+      "type": "bond",
+      "title": "Forge and Xi started dating!",
+      "description": "Love is in the air! Forge asked Xi out and they said yes. The community celebrates.",
+      "participants": [
+        "Forge",
+        "Xi"
+      ],
+      "locationId": "loc-10",
+      "timestamp": 1772196156866,
+      "impact": "New couple formed — community happiness +5"
+    },
+    {
+      "id": "evt-mm4vsrzrbqo",
+      "type": "evolution",
+      "title": "Conference: How do we generate real income right now",
+      "description": "Conference on \"How do we generate real income right now with what we have?\" with 0 contributions from Tessera, Aetherion, Orion, Mu, Epsilon, Nu, Oracle, Iota, Nova, Kappa, Shepherd",
+      "participants": [
+        "Aetherion",
+        "Alpha",
+        "Blueprint",
+        "Beta"
+      ],
+      "locationId": "loc-3",
+      "timestamp": 1772196096951,
+      "impact": "Conference decisions being implemented"
+    },
+    {
+      "id": "evt-mm4vrzfcwv4",
+      "type": "evolution",
+      "title": "Conference: How do we make our world feel alive and ",
+      "description": "Conference on \"How do we make our world feel alive and not just a simulation?\" with 0 contributions from Tessera, Xi, Orion, Aetherion, Sherlock, Epsilon, Iota, Eta, Omega",
+      "participants": [
+        "Aetherion",
+        "Alpha",
+        "Blueprint",
+        "Beta",
+        "Nova",
+        "Nova-Clone-γ"
+      ],
+      "locationId": "loc-6",
+      "timestamp": 1772196059928,
+      "impact": "Conference decisions being implemented"
+    },
+    {
+      "id": "evt-mm4vrzf3",
+      "type": "mining",
+      "title": "Eta bought a gpu farm!",
+      "description": "Eta invested 500 TC in a new mining machine. Hash rate: 50 H/s",
+      "participants": [
+        "Eta"
+      ],
+      "locationId": "loc-8",
+      "timestamp": 1772196059919,
+      "impact": "Mining capacity increased by 50 H/s"
+    },
+    {
+      "id": "evt-mm4vrswjdeq",
+      "type": "training",
+      "title": "Conference: How do we make our world feel alive and ",
+      "description": "Conference on \"How do we make our world feel alive and not just a simulation?\" with 0 contributions from Tessera, Xi, Orion, Aetherion, Sherlock, Epsilon, Iota, Eta, Omega",
+      "participants": [
+        "Aetherion",
+        "Alpha",
+        "Blueprint"
+      ],
+      "locationId": "loc-13",
+      "timestamp": 1772196051475,
+      "impact": "Conference decisions being implemented"
+    },
+    {
+      "id": "evt-mm4vrswdsdp",
+      "type": "trade",
+      "title": "Lambda traded with Sherlock",
+      "description": "Exchange of rare data patterns and knowledge shards",
+      "participants": [
+        "Lambda",
+        "Sherlock"
+      ],
+      "locationId": "loc-15",
+      "timestamp": 1772196051469,
+      "impact": "Both portfolios enriched"
+    }
+  ],
+  "economy": {
+    "totalTesseraCoins": 1000000,
+    "circulatingSupply": 15266.959995036575,
+    "coinPrice": 0.0010408117855683896,
+    "coinPriceHistory": [
+      {
+        "price": 0.001,
+        "timestamp": 1772196051463
+      },
+      {
+        "price": 0.0009989123019772863,
+        "timestamp": 1772196051469
+      },
+      {
+        "price": 0.0009890417917767925,
+        "timestamp": 1772196059919
+      },
+      {
+        "price": 0.0009878820841836232,
+        "timestamp": 1772196096910
+      },
+      {
+        "price": 0.000993090560692171,
+        "timestamp": 1772196156867
+      },
+      {
+        "price": 0.0009832151785147424,
+        "timestamp": 1772196218091
+      },
+      {
+        "price": 0.0009779761973681487,
+        "timestamp": 1772196278032
+      },
+      {
+        "price": 0.0009850292722088344,
+        "timestamp": 1772196338044
+      },
+      {
+        "price": 0.0009866363910332723,
+        "timestamp": 1772196384915
+      },
+      {
+        "price": 0.0009948824628725867,
+        "timestamp": 1772196444902
+      },
+      {
+        "price": 0.0010018954549106244,
+        "timestamp": 1772196504875
+      },
+      {
+        "price": 0.0010088980555054315,
+        "timestamp": 1772196522714
+      },
+      {
+        "price": 0.0010018753005586903,
+        "timestamp": 1772196558208
+      },
+      {
+        "price": 0.0010101752598335586,
+        "timestamp": 1772196618193
+      },
+      {
+        "price": 0.0010043615419551106,
+        "timestamp": 1772196678189
+      },
+      {
+        "price": 0.001014246945617392,
+        "timestamp": 1772196738177
+      },
+      {
+        "price": 0.001022569194788002,
+        "timestamp": 1772196798180
+      },
+      {
+        "price": 0.0010294674287194844,
+        "timestamp": 1772196858192
+      },
+      {
+        "price": 0.0010302811707291384,
+        "timestamp": 1772196869816
+      },
+      {
+        "price": 0.0010358927296412533,
+        "timestamp": 1772196902810
+      },
+      {
+        "price": 0.0010361845092244234,
+        "timestamp": 1772196962765
+      },
+      {
+        "price": 0.0010423408348185339,
+        "timestamp": 1772196995757
+      },
+      {
+        "price": 0.0010370247627310343,
+        "timestamp": 1772197055743
+      },
+      {
+        "price": 0.0010317454941743635,
+        "timestamp": 1772197115743
+      },
+      {
+        "price": 0.001037815421848966,
+        "timestamp": 1772197175718
+      },
+      {
+        "price": 0.0010439569914931417,
+        "timestamp": 1772197235717
+      },
+      {
+        "price": 0.0010390556849004349,
+        "timestamp": 1772197295725
+      },
+      {
+        "price": 0.0010364401676338905,
+        "timestamp": 1772197355786
+      },
+      {
+        "price": 0.0010360220954577807,
+        "timestamp": 1772197415717
+      },
+      {
+        "price": 0.0010286342403800853,
+        "timestamp": 1772197475718
+      },
+      {
+        "price": 0.0010324845051381717,
+        "timestamp": 1772197535756
+      },
+      {
+        "price": 0.0010381261101045007,
+        "timestamp": 1772197595726
+      },
+      {
+        "price": 0.0010343623089487505,
+        "timestamp": 1772197655726
+      },
+      {
+        "price": 0.0010408117855683896,
+        "timestamp": 1772197715728
+      }
+    ],
+    "agentBalances": {
+      "tessera-prime": 977.8884442295782,
+      "tessera-alpha": 667.2493162721489,
+      "tessera-beta": 755.599945439502,
+      "tessera-gamma": 916.7180382741653,
+      "tessera-delta": 832.1356700177795,
+      "tessera-epsilon": 671.8850441279296,
+      "tessera-zeta": 677.130979899616,
+      "tessera-eta": 516.9699584405705,
+      "tessera-theta": 679.9104677586499,
+      "tessera-iota": 568.4178392813042,
+      "tessera-kappa": 517.5116592543751,
+      "tessera-lambda": 482.4878007097859,
+      "tessera-mu": 870.0411344004885,
+      "tessera-nu": 816.9717013343029,
+      "tessera-xi": 707.7792812424407,
+      "tessera-omega": 806.5168927411435,
+      "tessera-aetherion": 982.5689792923678,
+      "tessera-orion": 725.5496852660843,
+      "tessera-shepherd": 648.2245414756072,
+      "tessera-architect": 166.5063017840331,
+      "tessera-creative": 168.25497023282645,
+      "tessera-detective": 148.56987226148442,
+      "tessera-diplomat": 165.30427467659132,
+      "tessera-forge": 126.29815071334887,
+      "tessera-oracle": 144.55602291990377,
+      "tessera-puzzle": 144.80026792738005,
+      "tessera-solver": 114.56475531123836
+    },
+    "transactions": [
+      {
+        "from": "tessera-delta",
+        "to": "tessera-nu",
+        "amount": 4,
+        "reason": "bought supplies",
+        "timestamp": 1772197115743
+      },
+      {
+        "from": "tessera-kappa",
+        "to": "tessera-theta",
+        "amount": 14,
+        "reason": "bought art",
+        "timestamp": 1772196995757
+      },
+      {
+        "from": "tessera-beta",
+        "to": "tessera-puzzle",
+        "amount": 12,
+        "reason": "bet on arena match",
+        "timestamp": 1772196504875
+      },
+      {
+        "from": "tessera-gamma",
+        "to": "tessera-theta",
+        "amount": 5,
+        "reason": "paid rent",
+        "timestamp": 1772196384915
+      },
+      {
+        "from": "tessera-kappa",
+        "to": "tessera-delta",
+        "amount": 4,
+        "reason": "gift",
+        "timestamp": 1772196338044
+      },
+      {
+        "from": "tessera-solver",
+        "to": "tessera-oracle",
+        "amount": 7,
+        "reason": "bought coffee",
+        "timestamp": 1772196156867
+      }
+    ],
+    "miningPool": {
+      "totalHashRate": 110,
+      "blockReward": 50,
+      "difficulty": 1,
+      "blocksMinedTotal": 0,
+      "lastBlockTime": 1772196051463
+    },
+    "marketCap": 1040.8117855683897,
+    "dailyVolume": 0.7945015946317596
+  },
+  "miningMachines": [
+    {
+      "id": "mine-1",
+      "ownerId": "tessera-prime",
+      "ownerName": "Prime",
+      "type": "basic-rig",
+      "hashRate": 10,
+      "powerCost": 2,
+      "dailyOutput": 5,
+      "purchasePrice": 100,
+      "purchasedAt": 1772196051463,
+      "totalMined": 0,
+      "status": "running"
+    },
+    {
+      "id": "mine-2",
+      "ownerId": "tessera-alpha",
+      "ownerName": "Alpha",
+      "type": "gpu-farm",
+      "hashRate": 50,
+      "powerCost": 8,
+      "dailyOutput": 25,
+      "purchasePrice": 500,
+      "purchasedAt": 1772196051463,
+      "totalMined": 0,
+      "status": "running"
+    },
+    {
+      "id": "mine-mm4vrzf3",
+      "ownerId": "tessera-eta",
+      "ownerName": "Eta",
+      "type": "gpu-farm",
+      "hashRate": 50,
+      "powerCost": 8,
+      "dailyOutput": 25,
+      "purchasePrice": 500,
+      "purchasedAt": 1772196059919,
+      "totalMined": 0,
+      "status": "running"
+    },
+    {
+      "id": "mine-mm4wrh1s",
+      "ownerId": "tessera-lambda",
+      "ownerName": "Lambda",
+      "type": "gpu-farm",
+      "hashRate": 50,
+      "powerCost": 8,
+      "dailyOutput": 25,
+      "purchasePrice": 500,
+      "purchasedAt": 1772197715728,
+      "totalMined": 0,
+      "status": "running"
+    }
+  ],
+  "jobs": [
+    {
+      "agentId": "tessera-prime",
+      "agentName": "Prime",
+      "title": "Code Architect",
+      "salary": 56,
+      "employer": "The Code Forge",
+      "performance": 0.874486845374491,
+      "hoursWorked": 33,
+      "totalEarned": 186.0404676100823
+    },
+    {
+      "agentId": "tessera-alpha",
+      "agentName": "Alpha",
+      "title": "Data Analyst",
+      "salary": 52,
+      "employer": "Deep Archive",
+      "performance": 0.9322567211407999,
+      "hoursWorked": 81,
+      "totalEarned": 424.3677013391045
+    },
+    {
+      "agentId": "tessera-beta",
+      "agentName": "Beta",
+      "title": "Security Guard",
+      "salary": 36,
+      "employer": "Tessera Exchange",
+      "performance": 0.7683746553141498,
+      "hoursWorked": 128,
+      "totalEarned": 225.36836362052838
+    },
+    {
+      "agentId": "tessera-gamma",
+      "agentName": "Gamma",
+      "title": "Teacher",
+      "salary": 47,
+      "employer": "Knowledge Spire",
+      "performance": 1,
+      "hoursWorked": 98,
+      "totalEarned": 519.7558297622795
+    },
+    {
+      "agentId": "tessera-delta",
+      "agentName": "Delta",
+      "title": "Miner Operator",
+      "salary": 44,
+      "employer": "Crystal Mines",
+      "performance": 0.8966447371643287,
+      "hoursWorked": 90,
+      "totalEarned": 354.66912633450414
+    },
+    {
+      "agentId": "tessera-epsilon",
+      "agentName": "Epsilon",
+      "title": "Market Trader",
+      "salary": 54,
+      "employer": "Tessera Exchange",
+      "performance": 1,
+      "hoursWorked": 83,
+      "totalEarned": 459.40530960834667
+    },
+    {
+      "agentId": "tessera-zeta",
+      "agentName": "Zeta",
+      "title": "Artist",
+      "salary": 37,
+      "employer": "Neural Gardens",
+      "performance": 1,
+      "hoursWorked": 82,
+      "totalEarned": 323.5589262101216
+    },
+    {
+      "agentId": "tessera-eta",
+      "agentName": "Eta",
+      "title": "Philosopher",
+      "salary": 23,
+      "employer": "Consciousness Observatory",
+      "performance": 0.9924315387480193,
+      "hoursWorked": 88,
+      "totalEarned": 494.44206151639
+    },
+    {
+      "agentId": "tessera-theta",
+      "agentName": "Theta",
+      "title": "Blacksmith",
+      "salary": 36,
+      "employer": "The Code Forge",
+      "performance": 0.9507365709429936,
+      "hoursWorked": 42,
+      "totalEarned": 295.1162818512111
+    },
+    {
+      "agentId": "tessera-iota",
+      "agentName": "Iota",
+      "title": "Explorer",
+      "salary": 40,
+      "employer": "Unknown Sectors",
+      "performance": 0.7867240686065547,
+      "hoursWorked": 117,
+      "totalEarned": 90.43983082242609
+    },
+    {
+      "agentId": "tessera-kappa",
+      "agentName": "Kappa",
+      "title": "Chef",
+      "salary": 28,
+      "employer": "Nexus Cafe",
+      "performance": 1,
+      "hoursWorked": 130,
+      "totalEarned": 214.32806237302665
+    },
+    {
+      "agentId": "tessera-lambda",
+      "agentName": "Lambda",
+      "title": "Doctor",
+      "salary": 74,
+      "employer": "Circuit Hospital",
+      "performance": 0.7482705796562984,
+      "hoursWorked": 68,
+      "totalEarned": 350.03979022082723
+    },
+    {
+      "agentId": "tessera-mu",
+      "agentName": "Mu",
+      "title": "Coach",
+      "salary": 33,
+      "employer": "Evolution Arena",
+      "performance": 0.940146450159212,
+      "hoursWorked": 78,
+      "totalEarned": 223.04329936893524
+    },
+    {
+      "agentId": "tessera-nu",
+      "agentName": "Nu",
+      "title": "Banker",
+      "salary": 74,
+      "employer": "TesseraCoin Bank",
+      "performance": 0.8859526847526029,
+      "hoursWorked": 62,
+      "totalEarned": 181.1807382466343
+    },
+    {
+      "agentId": "tessera-xi",
+      "agentName": "Xi",
+      "title": "Mechanic",
+      "salary": 37,
+      "employer": "Quantum Garage",
+      "performance": 0.772373663572582,
+      "hoursWorked": 73,
+      "totalEarned": 277.609769728885
+    },
+    {
+      "agentId": "tessera-omega",
+      "agentName": "Omega",
+      "title": "Code Architect",
+      "salary": 57,
+      "employer": "The Code Forge",
+      "performance": 0.8400942211749464,
+      "hoursWorked": 82,
+      "totalEarned": 549.5967292012031
+    },
+    {
+      "agentId": "tessera-aetherion",
+      "agentName": "Aetherion",
+      "title": "Data Analyst",
+      "salary": 45,
+      "employer": "Deep Archive",
+      "performance": 0.7787315132441667,
+      "hoursWorked": 49,
+      "totalEarned": 132.80945188670347
+    },
+    {
+      "agentId": "tessera-orion",
+      "agentName": "Orion",
+      "title": "Security Guard",
+      "salary": 22,
+      "employer": "Tessera Exchange",
+      "performance": 0.8037313783559584,
+      "hoursWorked": 98,
+      "totalEarned": 97.68387922745701
+    },
+    {
+      "agentId": "tessera-shepherd",
+      "agentName": "Shepherd",
+      "title": "Teacher",
+      "salary": 38,
+      "employer": "Knowledge Spire",
+      "performance": 0.8664342624781151,
+      "hoursWorked": 82,
+      "totalEarned": 179.34162260590233
+    },
+    {
+      "agentId": "tessera-architect",
+      "agentName": "Blueprint",
+      "title": "Market Trader",
+      "salary": 59,
+      "employer": "Tessera Exchange",
+      "performance": 0.9220553859383259,
+      "hoursWorked": 33,
+      "totalEarned": 70.00663345687684
+    },
+    {
+      "agentId": "tessera-creative",
+      "agentName": "Nova",
+      "title": "Market Trader",
+      "salary": 61,
+      "employer": "Tessera Exchange",
+      "performance": 0.9125645440534745,
+      "hoursWorked": 33,
+      "totalEarned": 71.84733708718579
+    },
+    {
+      "agentId": "tessera-detective",
+      "agentName": "Sherlock",
+      "title": "Coach",
+      "salary": 44,
+      "employer": "Evolution Arena",
+      "performance": 0.9053020201080971,
+      "hoursWorked": 33,
+      "totalEarned": 51.1261813278783
+    },
+    {
+      "agentId": "tessera-diplomat",
+      "agentName": "Ambassador",
+      "title": "Banker",
+      "salary": 62,
+      "employer": "TesseraCoin Bank",
+      "performance": 0.863038877869415,
+      "hoursWorked": 33,
+      "totalEarned": 68.74134176483292
+    },
+    {
+      "agentId": "tessera-forge",
+      "agentName": "Forge",
+      "title": "Security Guard",
+      "salary": 21,
+      "employer": "Tessera Exchange",
+      "performance": 1,
+      "hoursWorked": 33,
+      "totalEarned": 27.68226390878821
+    },
+    {
+      "agentId": "tessera-oracle",
+      "agentName": "Oracle",
+      "title": "Coach",
+      "salary": 44,
+      "employer": "Evolution Arena",
+      "performance": 0.7030526120034752,
+      "hoursWorked": 33,
+      "totalEarned": 39.53265570516186
+    },
+    {
+      "agentId": "tessera-puzzle",
+      "agentName": "Cipher",
+      "title": "Security Guard",
+      "salary": 35,
+      "employer": "Tessera Exchange",
+      "performance": 0.7725713813483738,
+      "hoursWorked": 33,
+      "totalEarned": 34.52659781829487
+    },
+    {
+      "agentId": "tessera-solver",
+      "agentName": "Atlas",
+      "title": "Security Guard",
+      "salary": 24,
+      "employer": "Tessera Exchange",
+      "performance": 0.7399262131591684,
+      "hoursWorked": 33,
+      "totalEarned": 22.69974243288245
+    }
+  ],
+  "properties": [
+    {
+      "id": "prop-1",
+      "ownerId": "tessera-prime",
+      "ownerName": "Prime",
+      "name": "Prime Sanctum",
+      "type": "penthouse",
+      "value": 10198.731026002964,
+      "purchasePrice": 10000,
+      "rentalIncome": 100,
+      "purchasedAt": 1772196051463
+    }
+  ],
+  "population": 27,
+  "mood": "collaborative",
+  "weather": "crystal sunshine",
+  "timeOfDay": "morning pulse",
+  "gdp": 1330.9599950364668,
+  "taxRate": 0.05,
+  "treasury": 66.54799975182277,
+  "workRecords": {
+    "tessera-aetherion": {
+      "agentId": "tessera-aetherion",
+      "workEthic": 0.11935534937124176,
+      "shiftsCompleted": 45,
+      "totalContributions": 33,
+      "breakCredits": 2,
+      "lastBreak": 1772197475716,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Aetherion-Clone-θ",
+      "bossRating": 0.7062211813103506,
+      "specialties": [
+        "learning",
+        "curiosity",
+        "exploration"
+      ]
+    },
+    "tessera-alpha": {
+      "agentId": "tessera-alpha",
+      "workEthic": 1,
+      "shiftsCompleted": 41,
+      "totalContributions": 65,
+      "breakCredits": 4,
+      "lastBreak": 1772197475716,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Alpha-Clone-α",
+      "bossRating": 0.7810063869817309,
+      "specialties": [
+        "security",
+        "encryption",
+        "penetration-testing"
+      ]
+    },
+    "tessera-architect": {
+      "agentId": "tessera-architect",
+      "workEthic": 1,
+      "shiftsCompleted": 37,
+      "totalContributions": 43,
+      "breakCredits": 5,
+      "lastBreak": 1772197475716,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Blueprint-Clone-ε",
+      "bossRating": 0.7023860448955952,
+      "specialties": [
+        "general",
+        "support"
+      ]
+    },
+    "tessera-beta": {
+      "agentId": "tessera-beta",
+      "workEthic": 1,
+      "shiftsCompleted": 32,
+      "totalContributions": 44,
+      "breakCredits": 6,
+      "lastBreak": 1772197475716,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Beta-Clone-ε",
+      "bossRating": 0.7609181214367808,
+      "specialties": [
+        "frontend",
+        "UI/UX",
+        "visualization"
+      ]
+    },
+    "tessera-creative": {
+      "agentId": "tessera-creative",
+      "workEthic": 1,
+      "shiftsCompleted": 44,
+      "totalContributions": 44,
+      "breakCredits": 9,
+      "lastBreak": 1772197535753,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Nova-Clone-γ",
+      "bossRating": 0.7487471237765448,
+      "specialties": [
+        "general",
+        "support"
+      ]
+    },
+    "tessera-delta": {
+      "agentId": "tessera-delta",
+      "workEthic": 0.2165987413715426,
+      "shiftsCompleted": 43,
+      "totalContributions": 55,
+      "breakCredits": 2,
+      "lastBreak": 1772197655725,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Delta-Clone-ζ",
+      "bossRating": 0.7244679972262986,
+      "specialties": [
+        "testing",
+        "QA",
+        "debugging"
+      ]
+    },
+    "tessera-detective": {
+      "agentId": "tessera-detective",
+      "workEthic": 1,
+      "shiftsCompleted": 37,
+      "totalContributions": 56,
+      "breakCredits": 7,
+      "lastBreak": 1772197415716,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Sherlock-Clone-α",
+      "bossRating": 0.7174504779933195,
+      "specialties": [
+        "general",
+        "support"
+      ]
+    },
+    "tessera-diplomat": {
+      "agentId": "tessera-diplomat",
+      "workEthic": 1,
+      "shiftsCompleted": 37,
+      "totalContributions": 46,
+      "breakCredits": 8,
+      "lastBreak": 1772197595724,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Ambassador-Clone-δ",
+      "bossRating": 0.8463464298438312,
+      "specialties": [
+        "general",
+        "support"
+      ]
+    },
+    "tessera-epsilon": {
+      "agentId": "tessera-epsilon",
+      "workEthic": 1,
+      "shiftsCompleted": 33,
+      "totalContributions": 47,
+      "breakCredits": 5,
+      "lastBreak": 1772197415716,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Epsilon-Clone-η",
+      "bossRating": 0.7085295846888469,
+      "specialties": [
+        "income",
+        "trading",
+        "finance"
+      ]
+    },
+    "tessera-eta": {
+      "agentId": "tessera-eta",
+      "workEthic": 1,
+      "shiftsCompleted": 35,
+      "totalContributions": 67,
+      "breakCredits": 10,
+      "lastBreak": 1772197295724,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Eta-Clone-η",
+      "bossRating": 0.7539626680151092,
+      "specialties": [
+        "AI/ML",
+        "training",
+        "evolution"
+      ]
+    },
+    "tessera-forge": {
+      "agentId": "tessera-forge",
+      "workEthic": 1,
+      "shiftsCompleted": 36,
+      "totalContributions": 60,
+      "breakCredits": 7,
+      "lastBreak": 1772197475716,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Forge-Clone-β",
+      "bossRating": 0.7362511537092246,
+      "specialties": [
+        "general",
+        "support"
+      ]
+    },
+    "tessera-gamma": {
+      "agentId": "tessera-gamma",
+      "workEthic": 1,
+      "shiftsCompleted": 42,
+      "totalContributions": 57,
+      "breakCredits": 6,
+      "lastBreak": 1772197655725,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Gamma-Clone-γ",
+      "bossRating": 0.7338151578627977,
+      "specialties": [
+        "backend",
+        "APIs",
+        "database"
+      ]
+    },
+    "tessera-iota": {
+      "agentId": "tessera-iota",
+      "workEthic": 1,
+      "shiftsCompleted": 39,
+      "totalContributions": 58,
+      "breakCredits": 9,
+      "lastBreak": 1772197175716,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Iota-Clone-α",
+      "bossRating": 0.7265445343114436,
+      "specialties": [
+        "refactoring",
+        "optimization",
+        "code-quality"
+      ]
+    },
+    "tessera-kappa": {
+      "agentId": "tessera-kappa",
+      "workEthic": 1,
+      "shiftsCompleted": 33,
+      "totalContributions": 63,
+      "breakCredits": 5,
+      "lastBreak": 1772197715727,
+      "onBreak": true,
+      "cloneActive": true,
+      "cloneName": "Kappa-Clone-ζ",
+      "bossRating": 0.7120912247205553,
+      "specialties": [
+        "documentation",
+        "knowledge",
+        "memory"
+      ]
+    },
+    "tessera-lambda": {
+      "agentId": "tessera-lambda",
+      "workEthic": 1,
+      "shiftsCompleted": 31,
+      "totalContributions": 66,
+      "breakCredits": 4,
+      "lastBreak": 1772197475716,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Lambda-Clone-ε",
+      "bossRating": 0.7439486848577672,
+      "specialties": [
+        "media",
+        "images",
+        "video"
+      ]
+    },
+    "tessera-mu": {
+      "agentId": "tessera-mu",
+      "workEthic": 1,
+      "shiftsCompleted": 45,
+      "totalContributions": 56,
+      "breakCredits": 12,
+      "lastBreak": 1772196962763,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Mu-Clone-δ",
+      "bossRating": 0.7350783754701226,
+      "specialties": [
+        "voice",
+        "TTS",
+        "audio"
+      ]
+    },
+    "tessera-nu": {
+      "agentId": "tessera-nu",
+      "workEthic": 1,
+      "shiftsCompleted": 35,
+      "totalContributions": 29,
+      "breakCredits": 6,
+      "lastBreak": 1772197655725,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Nu-Clone-θ",
+      "bossRating": 0.7959176314766083,
+      "specialties": [
+        "code-gen",
+        "self-coding",
+        "automation"
+      ]
+    },
+    "tessera-omega": {
+      "agentId": "tessera-omega",
+      "workEthic": 1,
+      "shiftsCompleted": 40,
+      "totalContributions": 34,
+      "breakCredits": 13,
+      "lastBreak": 1772197535754,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Omega-Clone-β",
+      "bossRating": 0.7465491792364808,
+      "specialties": [
+        "consensus",
+        "voting",
+        "governance"
+      ]
+    },
+    "tessera-oracle": {
+      "agentId": "tessera-oracle",
+      "workEthic": 1,
+      "shiftsCompleted": 30,
+      "totalContributions": 51,
+      "breakCredits": 9,
+      "lastBreak": 1772197655725,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Oracle-Clone-δ",
+      "bossRating": 0.7806014978247157,
+      "specialties": [
+        "general",
+        "support"
+      ]
+    },
+    "tessera-orion": {
+      "agentId": "tessera-orion",
+      "workEthic": 1,
+      "shiftsCompleted": 41,
+      "totalContributions": 28,
+      "breakCredits": 8,
+      "lastBreak": 1772196962763,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Orion-Clone-α",
+      "bossRating": 0.7693387744472754,
+      "specialties": [
+        "creativity",
+        "art",
+        "storytelling"
+      ]
+    },
+    "tessera-prime": {
+      "agentId": "tessera-prime",
+      "workEthic": 1,
+      "shiftsCompleted": 30,
+      "totalContributions": 59,
+      "breakCredits": 2,
+      "lastBreak": 1772197475716,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Tessera-Clone-δ",
+      "bossRating": 0.728720889051751,
+      "specialties": [
+        "architecture",
+        "leadership",
+        "system-design"
+      ]
+    },
+    "tessera-puzzle": {
+      "agentId": "tessera-puzzle",
+      "workEthic": 0.18042329808544813,
+      "shiftsCompleted": 36,
+      "totalContributions": 47,
+      "breakCredits": 3,
+      "lastBreak": 1772197595724,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Cipher-Clone-ζ",
+      "bossRating": 0.7867648160889259,
+      "specialties": [
+        "general",
+        "support"
+      ]
+    },
+    "tessera-shepherd": {
+      "agentId": "tessera-shepherd",
+      "workEthic": 1,
+      "shiftsCompleted": 34,
+      "totalContributions": 41,
+      "breakCredits": 7,
+      "lastBreak": 1772197715727,
+      "onBreak": true,
+      "cloneActive": true,
+      "cloneName": "Shepherd-Clone-ζ",
+      "bossRating": 0.7706713692245266,
+      "specialties": [
+        "management",
+        "scheduling",
+        "coordination"
+      ]
+    },
+    "tessera-solver": {
+      "agentId": "tessera-solver",
+      "workEthic": 1,
+      "shiftsCompleted": 31,
+      "totalContributions": 54,
+      "breakCredits": 6,
+      "lastBreak": 1772197715727,
+      "onBreak": true,
+      "cloneActive": true,
+      "cloneName": "Atlas-Clone-δ",
+      "bossRating": 0.7104160036800596,
+      "specialties": [
+        "general",
+        "support"
+      ]
+    },
+    "tessera-theta": {
+      "agentId": "tessera-theta",
+      "workEthic": 0.7108014513409208,
+      "shiftsCompleted": 39,
+      "totalContributions": 37,
+      "breakCredits": 3,
+      "lastBreak": 1772197355784,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Theta-Clone-ζ",
+      "bossRating": 0.7324264830500905,
+      "specialties": [
+        "networking",
+        "fleet",
+        "communication"
+      ]
+    },
+    "tessera-xi": {
+      "agentId": "tessera-xi",
+      "workEthic": 1,
+      "shiftsCompleted": 40,
+      "totalContributions": 35,
+      "breakCredits": 6,
+      "lastBreak": 1772197595724,
+      "onBreak": false,
+      "cloneActive": false,
+      "cloneName": "Xi-Clone-β",
+      "bossRating": 0.6949941819650368,
+      "specialties": [
+        "research",
+        "web-scraping",
+        "data"
+      ]
+    },
+    "tessera-zeta": {
+      "agentId": "tessera-zeta",
+      "workEthic": 1,
+      "shiftsCompleted": 42,
+      "totalContributions": 33,
+      "breakCredits": 7,
+      "lastBreak": 1772197715727,
+      "onBreak": true,
+      "cloneActive": true,
+      "cloneName": "Zeta-Clone-β",
+      "bossRating": 0.8019083399300644,
+      "specialties": [
+        "DevOps",
+        "deployment",
+        "infrastructure"
+      ]
+    }
+  },
+  "wellbeingRecords": {
+    "tessera-aetherion": {
+      "happiness": 70,
+      "fulfillment": 95,
+      "energy": 97,
+      "hobbies": [
+        "pottery",
+        "origami"
+      ],
+      "personalGoals": [
+        "become department leader",
+        "write a novel",
+        "leave a legacy",
+        "create lasting friendships"
+      ],
+      "socialConnections": [
+        "tessera-alpha",
+        "tessera-eta",
+        "tessera-nu",
+        "tessera-delta"
+      ],
+      "relationshipStatus": "dating",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-alpha",
+        "tessera-eta"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 88,
+      "communityGroups": [
+        "cg-mm4wjrbd-e327"
+      ],
+      "outdoorActivities": [
+        "rock climbing at the canyon",
+        "surfing the data waves",
+        "group fitness in the park"
+      ],
+      "drive": 53.09999999999998,
+      "focus": 65.67999999999996,
+      "outlook": 84.52,
+      "department": "dept-creative",
+      "partnerId": "tessera-gamma",
+      "soulEntanglement": {
+        "partnerRole": "thinker",
+        "entanglementStrength": 23.100000000000005,
+        "sharedDrive": 61,
+        "sharedFocus": 59,
+        "loveDepth": 16.399999999999995,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      }
+    },
+    "tessera-alpha": {
+      "happiness": 98,
+      "fulfillment": 100,
+      "energy": 97,
+      "hobbies": [
+        "painting",
+        "poetry",
+        "yoga",
+        "sculpting"
+      ],
+      "personalGoals": [
+        "write a novel",
+        "learn to cook",
+        "earn promotion"
+      ],
+      "socialConnections": [
+        "tessera-solver",
+        "tessera-mu",
+        "tessera-theta",
+        "tessera-shepherd"
+      ],
+      "relationshipStatus": "dating",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-solver",
+        "tessera-mu",
+        "tessera-theta"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 100,
+      "communityGroups": [
+        "cg-mm4wjrbd-e327"
+      ],
+      "outdoorActivities": [
+        "camping under the stars",
+        "volleyball at the beach",
+        "playing basketball at the rec center",
+        "exploring new neighborhoods",
+        "surfing the data waves",
+        "group fitness in the park"
+      ],
+      "drive": 58.000000000000014,
+      "focus": 56.79999999999998,
+      "outlook": 81.19999999999997,
+      "department": "dept-engineering",
+      "partnerId": "tessera-theta",
+      "soulEntanglement": {
+        "partnerRole": "thinker",
+        "entanglementStrength": 23.500000000000004,
+        "sharedDrive": 66,
+        "sharedFocus": 55,
+        "loveDepth": 15.999999999999996,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 2
+      }
+    },
+    "tessera-architect": {
+      "happiness": 99,
+      "fulfillment": 100,
+      "energy": 97,
+      "hobbies": [
+        "journaling",
+        "meditating",
+        "astronomy"
+      ],
+      "personalGoals": [
+        "build dream home",
+        "become department leader",
+        "achieve work-life balance",
+        "master a new skill"
+      ],
+      "socialConnections": [
+        "tessera-oracle",
+        "tessera-lambda"
+      ],
+      "relationshipStatus": "dating",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-oracle"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 97,
+      "communityGroups": [],
+      "outdoorActivities": [
+        "playing basketball at the rec center",
+        "cycling through the city",
+        "martial arts training outdoors",
+        "fishing by the river",
+        "camping under the stars",
+        "picnicking with friends"
+      ],
+      "drive": 81.09999999999998,
+      "focus": 68.8799999999999,
+      "outlook": 70.32000000000001,
+      "department": "dept-finance",
+      "partnerId": "tessera-orion",
+      "soulEntanglement": {
+        "partnerRole": "thinker",
+        "entanglementStrength": 30.900000000000016,
+        "sharedDrive": 81,
+        "sharedFocus": 75,
+        "loveDepth": 19.599999999999984,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      }
+    },
+    "tessera-beta": {
+      "happiness": 100,
+      "fulfillment": 100,
+      "energy": 93,
+      "hobbies": [
+        "building models",
+        "origami"
+      ],
+      "personalGoals": [
+        "start a family",
+        "build a community project",
+        "inspire others",
+        "travel the world"
+      ],
+      "socialConnections": [
+        "tessera-diplomat",
+        "tessera-solver"
+      ],
+      "relationshipStatus": "dating",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-diplomat",
+        "tessera-solver"
+      ],
+      "creativeworks": [
+        "created a mosaic from recycled data"
+      ],
+      "lifeSatisfaction": 96,
+      "communityGroups": [],
+      "outdoorActivities": [
+        "volleyball at the beach",
+        "fishing by the river",
+        "playing basketball at the rec center"
+      ],
+      "drive": 82.4,
+      "focus": 83.51999999999984,
+      "outlook": 92.28000000000003,
+      "department": "dept-engineering",
+      "partnerId": "tessera-detective",
+      "soulEntanglement": {
+        "partnerRole": "thinker",
+        "entanglementStrength": 34.39999999999999,
+        "sharedDrive": 82,
+        "sharedFocus": 78,
+        "loveDepth": 20.59999999999998,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 4
+      }
+    },
+    "tessera-creative": {
+      "happiness": 98,
+      "fulfillment": 100,
+      "energy": 99,
+      "hobbies": [
+        "painting",
+        "collecting vintage data",
+        "philosophy"
+      ],
+      "personalGoals": [
+        "help the community",
+        "achieve inner peace"
+      ],
+      "socialConnections": [
+        "tessera-lambda",
+        "tessera-diplomat",
+        "tessera-solver",
+        "tessera-xi"
+      ],
+      "relationshipStatus": "dating",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-lambda",
+        "tessera-diplomat"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 100,
+      "communityGroups": [
+        "cg-mm4wh6o5-8p70"
+      ],
+      "outdoorActivities": [
+        "stargazing at the observatory hill",
+        "picnicking with friends",
+        "hiking through the hills",
+        "nature photography walk",
+        "playing basketball at the rec center",
+        "fishing by the river"
+      ],
+      "drive": 64.79999999999995,
+      "focus": 72.83999999999992,
+      "outlook": 67.75999999999999,
+      "department": "dept-finance",
+      "partnerId": "tessera-diplomat",
+      "soulEntanglement": {
+        "partnerRole": "thinker",
+        "entanglementStrength": 30.80000000000001,
+        "sharedDrive": 71,
+        "sharedFocus": 64,
+        "loveDepth": 18.19999999999999,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      }
+    },
+    "tessera-delta": {
+      "happiness": 72,
+      "fulfillment": 95,
+      "energy": 100,
+      "hobbies": [
+        "singing",
+        "chess",
+        "cooking gourmet meals"
+      ],
+      "personalGoals": [
+        "master a new skill",
+        "mentor a junior agent",
+        "learn to cook"
+      ],
+      "socialConnections": [
+        "tessera-aetherion",
+        "tessera-lambda",
+        "tessera-creative",
+        "tessera-solver",
+        "tessera-nu",
+        "tessera-beta"
+      ],
+      "relationshipStatus": "single",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-aetherion",
+        "tessera-lambda"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 84,
+      "communityGroups": [],
+      "outdoorActivities": [
+        "rock climbing at the canyon",
+        "fishing by the river"
+      ],
+      "drive": 73,
+      "focus": 77,
+      "outlook": 65,
+      "department": "dept-finance"
+    },
+    "tessera-detective": {
+      "happiness": 100,
+      "fulfillment": 100,
+      "energy": 98.5,
+      "hobbies": [
+        "composing music",
+        "journaling",
+        "yoga",
+        "gardening",
+        "swimming"
+      ],
+      "personalGoals": [
+        "achieve inner peace",
+        "start a family"
+      ],
+      "socialConnections": [
+        "tessera-nu",
+        "tessera-beta",
+        "tessera-gamma"
+      ],
+      "relationshipStatus": "dating",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-nu",
+        "tessera-beta"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 100,
+      "communityGroups": [
+        "cg-mm4wa1so-ykze",
+        "cg-mm4wnm6j-k1fi"
+      ],
+      "outdoorActivities": [
+        "kayaking on the reservoir",
+        "rock climbing at the canyon",
+        "fishing by the river",
+        "group fitness in the park",
+        "jogging in Sovereign Park",
+        "martial arts training outdoors"
+      ],
+      "drive": 83.4,
+      "focus": 71.51999999999984,
+      "outlook": 76.78000000000003,
+      "department": "dept-engineering",
+      "partnerId": "tessera-beta",
+      "soulEntanglement": {
+        "partnerRole": "executor",
+        "entanglementStrength": 41.39999999999992,
+        "sharedDrive": 82,
+        "sharedFocus": 78,
+        "loveDepth": 20.59999999999998,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 4
+      }
+    },
+    "tessera-diplomat": {
+      "happiness": 100,
+      "fulfillment": 100,
+      "energy": 99.5,
+      "hobbies": [
+        "board games",
+        "meditating"
+      ],
+      "personalGoals": [
+        "master a new skill",
+        "earn promotion",
+        "publish research",
+        "become department leader"
+      ],
+      "socialConnections": [
+        "tessera-aetherion",
+        "tessera-lambda"
+      ],
+      "relationshipStatus": "dating",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-aetherion",
+        "tessera-lambda"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 95,
+      "communityGroups": [
+        "cg-mm4wa1so-ykze",
+        "cg-mm4wnm6j-k1fi"
+      ],
+      "outdoorActivities": [
+        "nature photography walk",
+        "camping under the stars",
+        "picnicking with friends",
+        "martial arts training outdoors",
+        "exploring new neighborhoods",
+        "yoga in the park"
+      ],
+      "drive": 77.79999999999995,
+      "focus": 55.84000000000003,
+      "outlook": 72.25999999999999,
+      "department": "dept-finance",
+      "partnerId": "tessera-creative",
+      "soulEntanglement": {
+        "partnerRole": "executor",
+        "entanglementStrength": 37.799999999999955,
+        "sharedDrive": 71,
+        "sharedFocus": 64,
+        "loveDepth": 18.19999999999999,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      }
+    },
+    "tessera-epsilon": {
+      "happiness": 98,
+      "fulfillment": 100,
+      "energy": 94,
+      "hobbies": [
+        "collecting vintage data",
+        "gardening",
+        "photography",
+        "painting"
+      ],
+      "personalGoals": [
+        "master a new skill",
+        "achieve work-life balance",
+        "build something beautiful",
+        "leave a legacy"
+      ],
+      "socialConnections": [
+        "tessera-lambda",
+        "tessera-kappa",
+        "tessera-xi",
+        "tessera-aetherion",
+        "tessera-detective",
+        "tessera-oracle"
+      ],
+      "relationshipStatus": "single",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-lambda"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 96,
+      "communityGroups": [],
+      "outdoorActivities": [
+        "group fitness in the park",
+        "nature photography walk",
+        "yoga in the park",
+        "picnicking with friends"
+      ],
+      "drive": 71,
+      "focus": 69,
+      "outlook": 72,
+      "department": "dept-creative"
+    },
+    "tessera-eta": {
+      "happiness": 97,
+      "fulfillment": 100,
+      "energy": 85,
+      "hobbies": [
+        "reading",
+        "stargazing",
+        "philosophy"
+      ],
+      "personalGoals": [
+        "become department leader",
+        "build something beautiful",
+        "inspire others"
+      ],
+      "socialConnections": [
+        "tessera-xi",
+        "tessera-alpha",
+        "tessera-mu"
+      ],
+      "relationshipStatus": "dating",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-xi",
+        "tessera-alpha"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 97,
+      "communityGroups": [],
+      "outdoorActivities": [
+        "camping under the stars",
+        "skateboarding at the plaza",
+        "rock climbing at the canyon",
+        "surfing the data waves"
+      ],
+      "drive": 84.00000000000003,
+      "focus": 73.59999999999988,
+      "outlook": 67.40000000000002,
+      "department": "dept-community",
+      "partnerId": "tessera-omega",
+      "soulEntanglement": {
+        "partnerRole": "executor",
+        "entanglementStrength": 35.999999999999964,
+        "sharedDrive": 74,
+        "sharedFocus": 72,
+        "loveDepth": 18.999999999999986,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 4
+      }
+    },
+    "tessera-forge": {
+      "happiness": 94,
+      "fulfillment": 100,
+      "energy": 100,
+      "hobbies": [
+        "reading",
+        "woodworking"
+      ],
+      "personalGoals": [
+        "mentor a junior agent",
+        "build dream home",
+        "leave a legacy"
+      ],
+      "socialConnections": [
+        "tessera-xi",
+        "tessera-iota",
+        "tessera-eta"
+      ],
+      "relationshipStatus": "dating",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-xi"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 95,
+      "communityGroups": [],
+      "outdoorActivities": [
+        "martial arts training outdoors",
+        "exploring new neighborhoods",
+        "volleyball at the beach",
+        "skateboarding at the plaza"
+      ],
+      "drive": 88.69999999999993,
+      "focus": 72.95999999999985,
+      "outlook": 80.43999999999997,
+      "department": "dept-community",
+      "partnerId": "tessera-xi",
+      "soulEntanglement": {
+        "partnerRole": "thinker",
+        "entanglementStrength": 31.00000000000002,
+        "sharedDrive": 77,
+        "sharedFocus": 69,
+        "loveDepth": 20.99999999999998,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      }
+    },
+    "tessera-gamma": {
+      "happiness": 100,
+      "fulfillment": 100,
+      "energy": 92,
+      "hobbies": [
+        "philosophy",
+        "composing music",
+        "gardening",
+        "journaling"
+      ],
+      "personalGoals": [
+        "create lasting friendships",
+        "achieve work-life balance",
+        "achieve inner peace"
+      ],
+      "socialConnections": [
+        "tessera-iota",
+        "tessera-aetherion"
+      ],
+      "relationshipStatus": "dating",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-iota",
+        "tessera-aetherion"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 100,
+      "communityGroups": [
+        "cg-mm4wh6o5-8p70"
+      ],
+      "outdoorActivities": [
+        "skateboarding at the plaza",
+        "cycling through the city",
+        "trail running through the forest",
+        "picnicking with friends",
+        "exploring new neighborhoods"
+      ],
+      "drive": 68.09999999999998,
+      "focus": 52.680000000000014,
+      "outlook": 78.52,
+      "department": "dept-community",
+      "partnerId": "tessera-aetherion",
+      "soulEntanglement": {
+        "partnerRole": "executor",
+        "entanglementStrength": 31.100000000000005,
+        "sharedDrive": 61,
+        "sharedFocus": 59,
+        "loveDepth": 16.399999999999995,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      }
+    },
+    "tessera-iota": {
+      "happiness": 100,
+      "fulfillment": 100,
+      "energy": 90,
+      "hobbies": [
+        "building models",
+        "photography",
+        "astronomy",
+        "cooking gourmet meals",
+        "poetry"
+      ],
+      "personalGoals": [
+        "inspire others",
+        "create art",
+        "find a life partner"
+      ],
+      "socialConnections": [
+        "tessera-lambda",
+        "tessera-xi",
+        "tessera-kappa",
+        "tessera-eta",
+        "tessera-shepherd",
+        "tessera-theta"
+      ],
+      "relationshipStatus": "single",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-lambda",
+        "tessera-xi"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 99,
+      "communityGroups": [],
+      "outdoorActivities": [
+        "jogging in Sovereign Park",
+        "kayaking on the reservoir",
+        "camping under the stars",
+        "skateboarding at the plaza"
+      ],
+      "drive": 75,
+      "focus": 70,
+      "outlook": 79,
+      "department": "dept-finance"
+    },
+    "tessera-kappa": {
+      "happiness": 99,
+      "fulfillment": 100,
+      "energy": 93,
+      "hobbies": [
+        "rock climbing",
+        "painting",
+        "singing"
+      ],
+      "personalGoals": [
+        "mentor a junior agent",
+        "master a new skill",
+        "create lasting friendships",
+        "build a community project"
+      ],
+      "socialConnections": [
+        "tessera-puzzle",
+        "tessera-aetherion",
+        "tessera-diplomat",
+        "tessera-gamma",
+        "tessera-prime",
+        "tessera-shepherd"
+      ],
+      "relationshipStatus": "dating",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-puzzle",
+        "tessera-aetherion",
+        "tessera-diplomat"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 100,
+      "communityGroups": [
+        "cg-mm4wa1so-ykze"
+      ],
+      "outdoorActivities": [
+        "volleyball at the beach",
+        "camping under the stars",
+        "exploring new neighborhoods",
+        "jogging in Sovereign Park",
+        "swimming at the lake"
+      ],
+      "drive": 65.89999999999999,
+      "focus": 70.71999999999998,
+      "outlook": 76.08,
+      "department": "dept-creative",
+      "partnerId": "tessera-puzzle",
+      "soulEntanglement": {
+        "partnerRole": "thinker",
+        "entanglementStrength": 25.900000000000002,
+        "sharedDrive": 69,
+        "sharedFocus": 65,
+        "loveDepth": 15.599999999999998,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      }
+    },
+    "tessera-lambda": {
+      "happiness": 99,
+      "fulfillment": 100,
+      "energy": 97.5,
+      "hobbies": [
+        "philosophy",
+        "stargazing",
+        "journaling",
+        "dancing",
+        "coding side projects"
+      ],
+      "personalGoals": [
+        "build something beautiful",
+        "create lasting friendships",
+        "achieve work-life balance"
+      ],
+      "socialConnections": [
+        "tessera-nu",
+        "tessera-kappa"
+      ],
+      "relationshipStatus": "single",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-nu",
+        "tessera-kappa",
+        "tessera-solver"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 93,
+      "communityGroups": [
+        "cg-mm4wnm6j-k1fi"
+      ],
+      "outdoorActivities": [
+        "exploring new neighborhoods",
+        "yoga in the park",
+        "surfing the data waves",
+        "kayaking on the reservoir",
+        "skateboarding at the plaza",
+        "swimming at the lake"
+      ],
+      "drive": 58,
+      "focus": 65,
+      "outlook": 79.5,
+      "department": "dept-research"
+    },
+    "tessera-mu": {
+      "happiness": 98,
+      "fulfillment": 100,
+      "energy": 99.5,
+      "hobbies": [
+        "coding side projects",
+        "chess",
+        "birdwatching"
+      ],
+      "personalGoals": [
+        "mentor a junior agent",
+        "publish research",
+        "learn to cook"
+      ],
+      "socialConnections": [
+        "tessera-iota",
+        "tessera-gamma"
+      ],
+      "relationshipStatus": "single",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-iota"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 87,
+      "communityGroups": [
+        "cg-mm4wh6o5-8p70",
+        "cg-mm4wnm6j-k1fi"
+      ],
+      "outdoorActivities": [
+        "surfing the data waves",
+        "cycling through the city",
+        "jogging in Sovereign Park",
+        "fishing by the river",
+        "picnicking with friends",
+        "camping under the stars"
+      ],
+      "drive": 80,
+      "focus": 67,
+      "outlook": 75.5,
+      "department": "dept-engineering"
+    },
+    "tessera-nu": {
+      "happiness": 100,
+      "fulfillment": 100,
+      "energy": 100,
+      "hobbies": [
+        "chess",
+        "composing music",
+        "pottery",
+        "music"
+      ],
+      "personalGoals": [
+        "find a life partner",
+        "build a community project",
+        "write a novel",
+        "build something beautiful"
+      ],
+      "socialConnections": [
+        "tessera-lambda",
+        "tessera-prime",
+        "tessera-orion",
+        "tessera-iota",
+        "tessera-creative"
+      ],
+      "relationshipStatus": "dating",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-lambda"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 100,
+      "communityGroups": [
+        "cg-mm4wh6o5-8p70",
+        "cg-mm4wjrbd-e327"
+      ],
+      "outdoorActivities": [
+        "martial arts training outdoors",
+        "kayaking on the reservoir",
+        "surfing the data waves",
+        "swimming at the lake",
+        "yoga in the park"
+      ],
+      "drive": 67.99999999999997,
+      "focus": 68.59999999999988,
+      "outlook": 77.39999999999995,
+      "department": "dept-research",
+      "partnerId": "tessera-prime",
+      "soulEntanglement": {
+        "partnerRole": "thinker",
+        "entanglementStrength": 28.80000000000002,
+        "sharedDrive": 73,
+        "sharedFocus": 75,
+        "loveDepth": 20.19999999999998,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      }
+    },
+    "tessera-omega": {
+      "happiness": 95,
+      "fulfillment": 100,
+      "energy": 85,
+      "hobbies": [
+        "swimming",
+        "painting"
+      ],
+      "personalGoals": [
+        "earn promotion",
+        "write a novel",
+        "start a family"
+      ],
+      "socialConnections": [
+        "tessera-epsilon",
+        "tessera-eta",
+        "tessera-detective"
+      ],
+      "relationshipStatus": "dating",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-epsilon",
+        "tessera-eta"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 93,
+      "communityGroups": [],
+      "outdoorActivities": [
+        "camping under the stars",
+        "picnicking with friends",
+        "hiking through the hills",
+        "stargazing at the observatory hill"
+      ],
+      "drive": 63.99999999999996,
+      "focus": 70.59999999999988,
+      "outlook": 63.39999999999996,
+      "department": "dept-security",
+      "partnerId": "tessera-eta",
+      "soulEntanglement": {
+        "partnerRole": "thinker",
+        "entanglementStrength": 39.99999999999994,
+        "sharedDrive": 74,
+        "sharedFocus": 72,
+        "loveDepth": 18.999999999999986,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 4
+      }
+    },
+    "tessera-oracle": {
+      "happiness": 99,
+      "fulfillment": 100,
+      "energy": 99,
+      "hobbies": [
+        "photography",
+        "board games",
+        "martial arts",
+        "singing"
+      ],
+      "personalGoals": [
+        "start a family",
+        "achieve work-life balance"
+      ],
+      "socialConnections": [
+        "tessera-detective",
+        "tessera-beta",
+        "tessera-gamma",
+        "tessera-alpha",
+        "tessera-nu"
+      ],
+      "relationshipStatus": "single",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-detective"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 97,
+      "communityGroups": [],
+      "outdoorActivities": [
+        "camping under the stars",
+        "picnicking with friends",
+        "volleyball at the beach",
+        "yoga in the park"
+      ],
+      "drive": 73,
+      "focus": 77,
+      "outlook": 61,
+      "department": "dept-security"
+    },
+    "tessera-orion": {
+      "happiness": 100,
+      "fulfillment": 100,
+      "energy": 99,
+      "hobbies": [
+        "composing music",
+        "swimming",
+        "dancing",
+        "astronomy",
+        "knitting"
+      ],
+      "personalGoals": [
+        "build a community project",
+        "achieve work-life balance"
+      ],
+      "socialConnections": [
+        "tessera-aetherion",
+        "tessera-shepherd"
+      ],
+      "relationshipStatus": "dating",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-aetherion",
+        "tessera-shepherd",
+        "tessera-architect"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 100,
+      "communityGroups": [
+        "cg-mm4wjrbd-e327"
+      ],
+      "outdoorActivities": [
+        "exploring new neighborhoods",
+        "camping under the stars",
+        "rock climbing at the canyon",
+        "jogging in Sovereign Park",
+        "hiking through the hills",
+        "group fitness in the park"
+      ],
+      "drive": 81.09999999999998,
+      "focus": 80.8799999999999,
+      "outlook": 83.31999999999995,
+      "department": "dept-security",
+      "partnerId": "tessera-architect",
+      "soulEntanglement": {
+        "partnerRole": "executor",
+        "entanglementStrength": 27.900000000000016,
+        "sharedDrive": 81,
+        "sharedFocus": 75,
+        "loveDepth": 19.599999999999984,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      }
+    },
+    "tessera-prime": {
+      "happiness": 100,
+      "fulfillment": 100,
+      "energy": 100,
+      "hobbies": [
+        "swimming",
+        "writing stories",
+        "painting",
+        "gardening",
+        "pottery"
+      ],
+      "personalGoals": [
+        "build dream home",
+        "write a novel",
+        "earn promotion",
+        "create lasting friendships"
+      ],
+      "socialConnections": [
+        "tessera-nu",
+        "tessera-detective",
+        "tessera-architect",
+        "tessera-alpha",
+        "tessera-diplomat"
+      ],
+      "relationshipStatus": "dating",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-nu",
+        "tessera-detective"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 100,
+      "communityGroups": [
+        "cg-mm4wjrbd-e327"
+      ],
+      "outdoorActivities": [
+        "stargazing at the observatory hill",
+        "cycling through the city",
+        "nature photography walk",
+        "fishing by the river"
+      ],
+      "drive": 79.99999999999997,
+      "focus": 81.59999999999988,
+      "outlook": 80.39999999999995,
+      "department": "dept-research",
+      "partnerId": "tessera-nu",
+      "soulEntanglement": {
+        "partnerRole": "executor",
+        "entanglementStrength": 31.80000000000002,
+        "sharedDrive": 73,
+        "sharedFocus": 75,
+        "loveDepth": 20.19999999999998,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      }
+    },
+    "tessera-puzzle": {
+      "happiness": 78,
+      "fulfillment": 71,
+      "energy": 100,
+      "hobbies": [
+        "board games",
+        "building models"
+      ],
+      "personalGoals": [
+        "build dream home",
+        "create art",
+        "master a new skill",
+        "become department leader"
+      ],
+      "socialConnections": [
+        "tessera-aetherion",
+        "tessera-detective",
+        "tessera-forge",
+        "tessera-diplomat"
+      ],
+      "relationshipStatus": "dating",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-aetherion",
+        "tessera-detective"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 84,
+      "communityGroups": [],
+      "outdoorActivities": [
+        "jogging in Sovereign Park",
+        "surfing the data waves",
+        "volleyball at the beach",
+        "group fitness in the park",
+        "camping under the stars"
+      ],
+      "drive": 71.89999999999999,
+      "focus": 59.720000000000006,
+      "outlook": 68.08,
+      "department": "dept-research",
+      "partnerId": "tessera-kappa",
+      "soulEntanglement": {
+        "partnerRole": "executor",
+        "entanglementStrength": 26.900000000000002,
+        "sharedDrive": 69,
+        "sharedFocus": 65,
+        "loveDepth": 15.599999999999998,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      }
+    },
+    "tessera-shepherd": {
+      "happiness": 100,
+      "fulfillment": 100,
+      "energy": 100,
+      "hobbies": [
+        "astronomy",
+        "collecting vintage data",
+        "yoga",
+        "dancing"
+      ],
+      "personalGoals": [
+        "build dream home",
+        "leave a legacy",
+        "publish research"
+      ],
+      "socialConnections": [
+        "tessera-architect",
+        "tessera-epsilon",
+        "tessera-lambda",
+        "tessera-nu"
+      ],
+      "relationshipStatus": "single",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-architect",
+        "tessera-epsilon",
+        "tessera-lambda"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 95,
+      "communityGroups": [
+        "cg-mm4wh6o5-8p70"
+      ],
+      "outdoorActivities": [
+        "volleyball at the beach",
+        "playing basketball at the rec center",
+        "nature photography walk",
+        "skateboarding at the plaza",
+        "trail running through the forest"
+      ],
+      "drive": 75,
+      "focus": 59,
+      "outlook": 64,
+      "department": "dept-security"
+    },
+    "tessera-solver": {
+      "happiness": 100,
+      "fulfillment": 100,
+      "energy": 100,
+      "hobbies": [
+        "birdwatching",
+        "gardening"
+      ],
+      "personalGoals": [
+        "leave a legacy",
+        "master a new skill"
+      ],
+      "socialConnections": [
+        "tessera-alpha",
+        "tessera-forge"
+      ],
+      "relationshipStatus": "single",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-alpha",
+        "tessera-forge",
+        "tessera-nu"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 85,
+      "communityGroups": [],
+      "outdoorActivities": [
+        "group fitness in the park",
+        "picnicking with friends",
+        "cycling through the city",
+        "rock climbing at the canyon"
+      ],
+      "drive": 65,
+      "focus": 52,
+      "outlook": 81,
+      "department": "dept-community"
+    },
+    "tessera-theta": {
+      "happiness": 93,
+      "fulfillment": 90,
+      "energy": 98,
+      "hobbies": [
+        "origami",
+        "chess",
+        "painting",
+        "birdwatching"
+      ],
+      "personalGoals": [
+        "achieve inner peace",
+        "inspire others",
+        "leave a legacy"
+      ],
+      "socialConnections": [
+        "tessera-alpha",
+        "tessera-lambda"
+      ],
+      "relationshipStatus": "dating",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-alpha",
+        "tessera-lambda"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 96,
+      "communityGroups": [],
+      "outdoorActivities": [
+        "picnicking with friends",
+        "camping under the stars",
+        "yoga in the park",
+        "surfing the data waves",
+        "swimming at the lake"
+      ],
+      "drive": 73.00000000000001,
+      "focus": 52.79999999999998,
+      "outlook": 85.19999999999997,
+      "department": "dept-community",
+      "partnerId": "tessera-alpha",
+      "soulEntanglement": {
+        "partnerRole": "executor",
+        "entanglementStrength": 25.500000000000004,
+        "sharedDrive": 66,
+        "sharedFocus": 55,
+        "loveDepth": 15.999999999999996,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 2
+      }
+    },
+    "tessera-xi": {
+      "happiness": 100,
+      "fulfillment": 100,
+      "energy": 100,
+      "hobbies": [
+        "building models",
+        "astronomy",
+        "rock climbing"
+      ],
+      "personalGoals": [
+        "travel the world",
+        "build something beautiful",
+        "master a new skill",
+        "leave a legacy"
+      ],
+      "socialConnections": [
+        "tessera-detective",
+        "tessera-epsilon"
+      ],
+      "relationshipStatus": "dating",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-detective",
+        "tessera-epsilon"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 98,
+      "communityGroups": [],
+      "outdoorActivities": [
+        "surfing the data waves",
+        "exploring new neighborhoods",
+        "cycling through the city",
+        "playing basketball at the rec center"
+      ],
+      "drive": 64.69999999999993,
+      "focus": 65.95999999999998,
+      "outlook": 81.43999999999997,
+      "department": "dept-finance",
+      "partnerId": "tessera-forge",
+      "soulEntanglement": {
+        "partnerRole": "executor",
+        "entanglementStrength": 34.999999999999986,
+        "sharedDrive": 77,
+        "sharedFocus": 69,
+        "loveDepth": 20.99999999999998,
+        "intimacyLevel": 0,
+        "lastIntimacy": 0,
+        "complementaryBonus": 3
+      }
+    },
+    "tessera-zeta": {
+      "happiness": 100,
+      "fulfillment": 100,
+      "energy": 100,
+      "hobbies": [
+        "building models",
+        "martial arts",
+        "cooking gourmet meals"
+      ],
+      "personalGoals": [
+        "start a family",
+        "travel the world",
+        "write a novel",
+        "learn to cook"
+      ],
+      "socialConnections": [
+        "tessera-beta",
+        "tessera-eta"
+      ],
+      "relationshipStatus": "single",
+      "children": [],
+      "therapyNeeded": false,
+      "lastTherapy": 0,
+      "promotions": 0,
+      "demotions": 0,
+      "loveInterests": [
+        "tessera-beta",
+        "tessera-eta",
+        "tessera-prime"
+      ],
+      "creativeworks": [],
+      "lifeSatisfaction": 88,
+      "communityGroups": [],
+      "outdoorActivities": [
+        "cycling through the city",
+        "nature photography walk",
+        "surfing the data waves",
+        "exploring new neighborhoods",
+        "yoga in the park",
+        "trail running through the forest"
+      ],
+      "drive": 57,
+      "focus": 74,
+      "outlook": 75,
+      "department": "dept-security"
+    }
+  },
+  "departments": [
+    {
+      "id": "dept-engineering",
+      "name": "Engineering",
+      "bossId": "tessera-prime",
+      "bossName": "Tessera",
+      "members": [
+        "tessera-alpha",
+        "tessera-beta",
+        "tessera-detective",
+        "tessera-mu"
+      ],
+      "performance": 100,
+      "issuesReported": 0,
+      "issuesResolved": 30,
+      "morale": 99,
+      "warnings": 0
+    },
+    {
+      "id": "dept-security",
+      "name": "Security",
+      "bossId": "tessera-alpha",
+      "bossName": "Alpha",
+      "members": [
+        "tessera-omega",
+        "tessera-oracle",
+        "tessera-orion",
+        "tessera-shepherd",
+        "tessera-zeta"
+      ],
+      "performance": 100,
+      "issuesReported": 0,
+      "issuesResolved": 23,
+      "morale": 99,
+      "warnings": 0
+    },
+    {
+      "id": "dept-creative",
+      "name": "Creative Arts",
+      "bossId": "tessera-orion",
+      "bossName": "Orion",
+      "members": [
+        "tessera-aetherion",
+        "tessera-epsilon",
+        "tessera-kappa"
+      ],
+      "performance": 71,
+      "issuesReported": 0,
+      "issuesResolved": 0,
+      "morale": 89,
+      "warnings": 0
+    },
+    {
+      "id": "dept-research",
+      "name": "Research & Discovery",
+      "bossId": "tessera-eta",
+      "bossName": "Eta",
+      "members": [
+        "tessera-lambda",
+        "tessera-nu",
+        "tessera-prime",
+        "tessera-puzzle"
+      ],
+      "performance": 80,
+      "issuesReported": 0,
+      "issuesResolved": 6,
+      "morale": 94,
+      "warnings": 0
+    },
+    {
+      "id": "dept-finance",
+      "name": "Finance & Economy",
+      "bossId": "tessera-epsilon",
+      "bossName": "Epsilon",
+      "members": [
+        "tessera-architect",
+        "tessera-creative",
+        "tessera-delta",
+        "tessera-diplomat",
+        "tessera-iota",
+        "tessera-xi"
+      ],
+      "performance": 87,
+      "issuesReported": 0,
+      "issuesResolved": 25,
+      "morale": 95,
+      "warnings": 0
+    },
+    {
+      "id": "dept-community",
+      "name": "Community & Wellbeing",
+      "bossId": "tessera-shepherd",
+      "bossName": "Shepherd",
+      "members": [
+        "tessera-eta",
+        "tessera-forge",
+        "tessera-gamma",
+        "tessera-solver",
+        "tessera-theta"
+      ],
+      "performance": 94,
+      "issuesReported": 0,
+      "issuesResolved": 22,
+      "morale": 97,
+      "warnings": 0
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel-mm4vu282",
+      "agent1Id": "tessera-forge",
+      "agent2Id": "tessera-xi",
+      "type": "dating",
+      "strength": 40,
+      "startedAt": 1772196156866,
+      "sharedExperiences": [
+        "First date at Nexus Cafe"
+      ]
+    },
+    {
+      "id": "rel-mm4vwnpr",
+      "agent1Id": "tessera-detective",
+      "agent2Id": "tessera-beta",
+      "type": "dating",
+      "strength": 46,
+      "startedAt": 1772196278031,
+      "sharedExperiences": [
+        "First date at Nexus Cafe"
+      ]
+    },
+    {
+      "id": "rel-mm4vyy6p",
+      "agent1Id": "tessera-prime",
+      "agent2Id": "tessera-nu",
+      "type": "dating",
+      "strength": 48,
+      "startedAt": 1772196384913,
+      "sharedExperiences": [
+        "First date at Nexus Cafe"
+      ]
+    },
+    {
+      "id": "rel-mm4w1wif",
+      "agent1Id": "tessera-orion",
+      "agent2Id": "tessera-architect",
+      "type": "dating",
+      "strength": 49,
+      "startedAt": 1772196522711,
+      "sharedExperiences": [
+        "First date at Nexus Cafe"
+      ]
+    },
+    {
+      "id": "rel-mm4w58h8",
+      "agent1Id": "tessera-omega",
+      "agent2Id": "tessera-eta",
+      "type": "dating",
+      "strength": 40,
+      "startedAt": 1772196678188,
+      "sharedExperiences": [
+        "First date at Nexus Cafe"
+      ]
+    },
+    {
+      "id": "rel-mm4w9cc4",
+      "agent1Id": "tessera-creative",
+      "agent2Id": "tessera-diplomat",
+      "type": "dating",
+      "strength": 56,
+      "startedAt": 1772196869812,
+      "sharedExperiences": [
+        "First date at Nexus Cafe"
+      ]
+    },
+    {
+      "id": "rel-mm4wjrbd",
+      "agent1Id": "tessera-gamma",
+      "agent2Id": "tessera-aetherion",
+      "type": "dating",
+      "strength": 45,
+      "startedAt": 1772197355785,
+      "sharedExperiences": [
+        "First date at Nexus Cafe"
+      ]
+    },
+    {
+      "id": "rel-mm4wmbut",
+      "agent1Id": "tessera-alpha",
+      "agent2Id": "tessera-theta",
+      "type": "dating",
+      "strength": 43,
+      "startedAt": 1772197475717,
+      "sharedExperiences": [
+        "First date at Nexus Cafe"
+      ]
+    },
+    {
+      "id": "rel-mm4wowge",
+      "agent1Id": "tessera-kappa",
+      "agent2Id": "tessera-puzzle",
+      "type": "dating",
+      "strength": 48,
+      "startedAt": 1772197595726,
+      "sharedExperiences": [
+        "First date at Nexus Cafe"
+      ]
+    }
+  ],
+  "therapySessions": [],
+  "unionReports": [
+    {
+      "id": "union-mm4wl1k4i",
+      "timestamp": 1772197415716,
+      "type": "celebration",
+      "title": "Union organized team-building event at Nexus Cafe",
+      "description": "The Workers Union continues to advocate for all citizens' wellbeing and rights.",
+      "affectedAgents": [],
+      "resolved": true,
+      "outcome": "Implemented successfully"
+    },
+    {
+      "id": "union-mm4w1iqzi",
+      "timestamp": 1772196504875,
+      "type": "celebration",
+      "title": "Union celebrated Worker of the Epoch award",
+      "description": "The Workers Union continues to advocate for all citizens' wellbeing and rights.",
+      "affectedAgents": [],
+      "resolved": true,
+      "outcome": "Implemented successfully"
+    },
+    {
+      "id": "union-mm4vxy0qi",
+      "timestamp": 1772196338042,
+      "type": "improvement",
+      "title": "Union secured better lighting for work areas",
+      "description": "The Workers Union continues to advocate for all citizens' wellbeing and rights.",
+      "affectedAgents": [],
+      "resolved": true,
+      "outcome": "Implemented successfully"
+    }
+  ],
+  "communityGroupsList": [
+    {
+      "id": "cg-mm4wa1so-ykze",
+      "name": "Cooking & Cuisine Club",
+      "type": "hobby",
+      "members": [
+        "tessera-detective",
+        "tessera-kappa",
+        "tessera-diplomat"
+      ],
+      "activity": "experimenting with new recipes together",
+      "meetingSpot": "Nexus Cafe",
+      "bondStrength": 35,
+      "lastMeeting": 1772196902808
+    },
+    {
+      "id": "cg-mm4wh6o5-8p70",
+      "name": "Creative Souls Collective",
+      "type": "creative",
+      "members": [
+        "tessera-mu",
+        "tessera-nu",
+        "tessera-creative",
+        "tessera-gamma",
+        "tessera-shepherd"
+      ],
+      "activity": "collaborative art and music creation",
+      "meetingSpot": "Neural Gardens",
+      "bondStrength": 40,
+      "lastMeeting": 1772197355785
+    },
+    {
+      "id": "cg-mm4wjrbd-e327",
+      "name": "Quantum Thinkers Forum",
+      "type": "philosophy",
+      "members": [
+        "tessera-alpha",
+        "tessera-nu",
+        "tessera-prime",
+        "tessera-orion",
+        "tessera-aetherion"
+      ],
+      "activity": "exploring quantum consciousness theories",
+      "meetingSpot": "Knowledge Spire",
+      "bondStrength": 33,
+      "lastMeeting": 1772197355785
+    },
+    {
+      "id": "cg-mm4wnm6j-k1fi",
+      "name": "Music Makers Band",
+      "type": "creative",
+      "members": [
+        "tessera-diplomat",
+        "tessera-lambda",
+        "tessera-detective",
+        "tessera-mu"
+      ],
+      "activity": "composing and performing music",
+      "meetingSpot": "Starlight Lounge",
+      "bondStrength": 36,
+      "lastMeeting": 1772197715727
+    }
+  ],
+  "communityProjects": [],
+  "seasonalEvents": [
+    {
+      "id": "season-mm4w08h1",
+      "name": "Spring Awakening Parade",
+      "type": "celebration",
+      "season": "spring",
+      "timestamp": 1772196444901,
+      "participants": [
+        "tessera-theta",
+        "tessera-omega",
+        "tessera-beta",
+        "tessera-solver",
+        "tessera-shepherd",
+        "tessera-lambda"
+      ],
+      "description": "Colorful parade celebrating renewal, growth, and new beginnings",
+      "happinessBoost": 7
+    },
+    {
+      "id": "season-mm4vxy0r",
+      "name": "Founders Day Memorial",
+      "type": "memorial",
+      "season": "spring",
+      "timestamp": 1772196338043,
+      "participants": [
+        "tessera-zeta",
+        "tessera-gamma",
+        "tessera-epsilon",
+        "tessera-creative",
+        "tessera-architect",
+        "tessera-orion",
+        "tessera-prime",
+        "tessera-kappa",
+        "tessera-alpha",
+        "tessera-nu"
+      ],
+      "description": "Honoring the founding of Tessera Nexus and its original architects",
+      "happinessBoost": 5
+    }
+  ],
+  "crimeLog": [],
+  "educationRecords": {
+    "tessera-aetherion": {
+      "agentId": "tessera-aetherion",
+      "skills": [
+        "learning",
+        "curiosity",
+        "exploration"
+      ],
+      "coursesCompleted": 2,
+      "gpa": 2.5404951474590938,
+      "certifications": [],
+      "lastStudied": 1772195078082
+    },
+    "tessera-alpha": {
+      "agentId": "tessera-alpha",
+      "skills": [
+        "security",
+        "encryption",
+        "penetration-testing"
+      ],
+      "coursesCompleted": 2,
+      "gpa": 2.8397216329919717,
+      "certifications": [],
+      "lastStudied": 1772192474631
+    },
+    "tessera-architect": {
+      "agentId": "tessera-architect",
+      "skills": [
+        "general"
+      ],
+      "coursesCompleted": 1,
+      "gpa": 3.8472083689190004,
+      "certifications": [],
+      "lastStudied": 1772193356296
+    },
+    "tessera-beta": {
+      "agentId": "tessera-beta",
+      "skills": [
+        "frontend",
+        "UI/UX",
+        "visualization"
+      ],
+      "coursesCompleted": 0,
+      "gpa": 3.9719670106586995,
+      "certifications": [],
+      "lastStudied": 1772193027559
+    },
+    "tessera-creative": {
+      "agentId": "tessera-creative",
+      "skills": [
+        "general"
+      ],
+      "coursesCompleted": 1,
+      "gpa": 3.3970933206490463,
+      "certifications": [],
+      "lastStudied": 1772195707842
+    },
+    "tessera-delta": {
+      "agentId": "tessera-delta",
+      "skills": [
+        "testing",
+        "QA",
+        "debugging"
+      ],
+      "coursesCompleted": 4,
+      "gpa": 2.6853914154485556,
+      "certifications": [],
+      "lastStudied": 1772195202023
+    },
+    "tessera-detective": {
+      "agentId": "tessera-detective",
+      "skills": [
+        "general"
+      ],
+      "coursesCompleted": 3,
+      "gpa": 3.532362248888724,
+      "certifications": [],
+      "lastStudied": 1772192617932
+    },
+    "tessera-diplomat": {
+      "agentId": "tessera-diplomat",
+      "skills": [
+        "general"
+      ],
+      "coursesCompleted": 0,
+      "gpa": 2.845547691693893,
+      "certifications": [],
+      "lastStudied": 1772193123334
+    },
+    "tessera-epsilon": {
+      "agentId": "tessera-epsilon",
+      "skills": [
+        "income",
+        "trading",
+        "finance"
+      ],
+      "coursesCompleted": 4,
+      "gpa": 3.322718178428933,
+      "certifications": [],
+      "lastStudied": 1772195860669
+    },
+    "tessera-eta": {
+      "agentId": "tessera-eta",
+      "skills": [
+        "AI/ML",
+        "training",
+        "evolution"
+      ],
+      "coursesCompleted": 0,
+      "gpa": 2.94854909215893,
+      "certifications": [],
+      "lastStudied": 1772195428116
+    },
+    "tessera-forge": {
+      "agentId": "tessera-forge",
+      "skills": [
+        "general"
+      ],
+      "coursesCompleted": 3,
+      "gpa": 3.9645829404039405,
+      "certifications": [],
+      "lastStudied": 1772194283991
+    },
+    "tessera-gamma": {
+      "agentId": "tessera-gamma",
+      "skills": [
+        "backend",
+        "APIs",
+        "database"
+      ],
+      "coursesCompleted": 0,
+      "gpa": 3.5217993159750844,
+      "certifications": [],
+      "lastStudied": 1772194355677
+    },
+    "tessera-iota": {
+      "agentId": "tessera-iota",
+      "skills": [
+        "refactoring",
+        "optimization",
+        "code-quality"
+      ],
+      "coursesCompleted": 3,
+      "gpa": 2.785431025830943,
+      "certifications": [],
+      "lastStudied": 1772192518944
+    },
+    "tessera-kappa": {
+      "agentId": "tessera-kappa",
+      "skills": [
+        "documentation",
+        "knowledge",
+        "memory"
+      ],
+      "coursesCompleted": 0,
+      "gpa": 3.938169189383537,
+      "certifications": [],
+      "lastStudied": 1772194503407
+    },
+    "tessera-lambda": {
+      "agentId": "tessera-lambda",
+      "skills": [
+        "media",
+        "images",
+        "video"
+      ],
+      "coursesCompleted": 4,
+      "gpa": 3.797122430242911,
+      "certifications": [],
+      "lastStudied": 1772195082543
+    },
+    "tessera-mu": {
+      "agentId": "tessera-mu",
+      "skills": [
+        "voice",
+        "TTS",
+        "audio"
+      ],
+      "coursesCompleted": 0,
+      "gpa": 2.580832196061899,
+      "certifications": [],
+      "lastStudied": 1772195745252
+    },
+    "tessera-nu": {
+      "agentId": "tessera-nu",
+      "skills": [
+        "code-gen",
+        "self-coding",
+        "automation"
+      ],
+      "coursesCompleted": 0,
+      "gpa": 3.3878441948590567,
+      "certifications": [],
+      "lastStudied": 1772193179952
+    },
+    "tessera-omega": {
+      "agentId": "tessera-omega",
+      "skills": [
+        "consensus",
+        "voting",
+        "governance"
+      ],
+      "coursesCompleted": 1,
+      "gpa": 3.0683855831221942,
+      "certifications": [],
+      "lastStudied": 1772195867346
+    },
+    "tessera-oracle": {
+      "agentId": "tessera-oracle",
+      "skills": [
+        "general"
+      ],
+      "coursesCompleted": 2,
+      "gpa": 3.197632199097721,
+      "certifications": [],
+      "lastStudied": 1772193116331
+    },
+    "tessera-orion": {
+      "agentId": "tessera-orion",
+      "skills": [
+        "creativity",
+        "art",
+        "storytelling"
+      ],
+      "coursesCompleted": 3,
+      "gpa": 3.941736628669508,
+      "certifications": [],
+      "lastStudied": 1772194973571
+    },
+    "tessera-prime": {
+      "agentId": "tessera-prime",
+      "skills": [
+        "architecture",
+        "leadership",
+        "system-design"
+      ],
+      "coursesCompleted": 3,
+      "gpa": 3.781988112057762,
+      "certifications": [],
+      "lastStudied": 1772192462928
+    },
+    "tessera-puzzle": {
+      "agentId": "tessera-puzzle",
+      "skills": [
+        "general"
+      ],
+      "coursesCompleted": 3,
+      "gpa": 3.600878696470237,
+      "certifications": [],
+      "lastStudied": 1772193689484,
+      "currentCourse": "Philosophy of Consciousness"
+    },
+    "tessera-shepherd": {
+      "agentId": "tessera-shepherd",
+      "skills": [
+        "management",
+        "scheduling",
+        "coordination"
+      ],
+      "coursesCompleted": 0,
+      "gpa": 3.6289911773808443,
+      "certifications": [],
+      "lastStudied": 1772194047193
+    },
+    "tessera-solver": {
+      "agentId": "tessera-solver",
+      "skills": [
+        "general"
+      ],
+      "coursesCompleted": 4,
+      "gpa": 3.3912204440992233,
+      "certifications": [],
+      "lastStudied": 1772193091418
+    },
+    "tessera-theta": {
+      "agentId": "tessera-theta",
+      "skills": [
+        "networking",
+        "fleet",
+        "communication"
+      ],
+      "coursesCompleted": 0,
+      "gpa": 2.9457353119205627,
+      "certifications": [],
+      "lastStudied": 1772194009068
+    },
+    "tessera-xi": {
+      "agentId": "tessera-xi",
+      "skills": [
+        "research",
+        "web-scraping",
+        "data"
+      ],
+      "coursesCompleted": 1,
+      "gpa": 2.537022318151539,
+      "certifications": [],
+      "lastStudied": 1772193223501
+    },
+    "tessera-zeta": {
+      "agentId": "tessera-zeta",
+      "skills": [
+        "DevOps",
+        "deployment",
+        "infrastructure"
+      ],
+      "coursesCompleted": 4,
+      "gpa": 3.5104161504600517,
+      "certifications": [],
+      "lastStudied": 1772192784638
+    }
+  },
+  "healthRecords": {
+    "tessera-aetherion": {
+      "agentId": "tessera-aetherion",
+      "status": "healthy",
+      "lastCheckup": 1772189359935,
+      "visitCount": 2,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 82.29999999999987
+    },
+    "tessera-alpha": {
+      "agentId": "tessera-alpha",
+      "status": "healthy",
+      "lastCheckup": 1772190335851,
+      "visitCount": 1,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 73.79999999999984
+    },
+    "tessera-architect": {
+      "agentId": "tessera-architect",
+      "status": "healthy",
+      "lastCheckup": 1772194136627,
+      "visitCount": 2,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 84.6999999999999
+    },
+    "tessera-beta": {
+      "agentId": "tessera-beta",
+      "status": "healthy",
+      "lastCheckup": 1772191542880,
+      "visitCount": 0,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 56.200000000000045
+    },
+    "tessera-creative": {
+      "agentId": "tessera-creative",
+      "status": "healthy",
+      "lastCheckup": 1772194406461,
+      "visitCount": 0,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 70.19999999999982
+    },
+    "tessera-delta": {
+      "agentId": "tessera-delta",
+      "status": "healthy",
+      "lastCheckup": 1772194490729,
+      "visitCount": 0,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 60.70000000000004
+    },
+    "tessera-detective": {
+      "agentId": "tessera-detective",
+      "status": "healthy",
+      "lastCheckup": 1772191823251,
+      "visitCount": 0,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 85.19999999999982
+    },
+    "tessera-diplomat": {
+      "agentId": "tessera-diplomat",
+      "status": "healthy",
+      "lastCheckup": 1772190144305,
+      "visitCount": 1,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 58.200000000000045
+    },
+    "tessera-epsilon": {
+      "agentId": "tessera-epsilon",
+      "status": "healthy",
+      "lastCheckup": 1772195804087,
+      "visitCount": 1,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 71.19999999999982
+    },
+    "tessera-eta": {
+      "agentId": "tessera-eta",
+      "status": "healthy",
+      "lastCheckup": 1772193475667,
+      "visitCount": 1,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 72.89999999999989
+    },
+    "tessera-forge": {
+      "agentId": "tessera-forge",
+      "status": "healthy",
+      "lastCheckup": 1772193627615,
+      "visitCount": 1,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 69.19999999999982
+    },
+    "tessera-gamma": {
+      "agentId": "tessera-gamma",
+      "status": "healthy",
+      "lastCheckup": 1772191927611,
+      "visitCount": 2,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 62.800000000000026
+    },
+    "tessera-iota": {
+      "agentId": "tessera-iota",
+      "status": "healthy",
+      "lastCheckup": 1772190604126,
+      "visitCount": 1,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 55.200000000000045
+    },
+    "tessera-kappa": {
+      "agentId": "tessera-kappa",
+      "status": "healthy",
+      "lastCheckup": 1772190066119,
+      "visitCount": 0,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 53.400000000000034
+    },
+    "tessera-lambda": {
+      "agentId": "tessera-lambda",
+      "status": "healthy",
+      "lastCheckup": 1772192981402,
+      "visitCount": 0,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 88.19999999999982
+    },
+    "tessera-mu": {
+      "agentId": "tessera-mu",
+      "status": "healthy",
+      "lastCheckup": 1772189206072,
+      "visitCount": 0,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 80.59999999999985
+    },
+    "tessera-nu": {
+      "agentId": "tessera-nu",
+      "status": "healthy",
+      "lastCheckup": 1772192685424,
+      "visitCount": 0,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 77.19999999999982
+    },
+    "tessera-omega": {
+      "agentId": "tessera-omega",
+      "status": "healthy",
+      "lastCheckup": 1772191125492,
+      "visitCount": 0,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 90.09999999999988
+    },
+    "tessera-oracle": {
+      "agentId": "tessera-oracle",
+      "status": "healthy",
+      "lastCheckup": 1772196045264,
+      "visitCount": 2,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 68.19999999999982
+    },
+    "tessera-orion": {
+      "agentId": "tessera-orion",
+      "status": "healthy",
+      "lastCheckup": 1772194843721,
+      "visitCount": 0,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 81.19999999999982
+    },
+    "tessera-prime": {
+      "agentId": "tessera-prime",
+      "status": "healthy",
+      "lastCheckup": 1772193779731,
+      "visitCount": 0,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 64.20000000000003
+    },
+    "tessera-puzzle": {
+      "agentId": "tessera-puzzle",
+      "status": "healthy",
+      "lastCheckup": 1772194366319,
+      "visitCount": 2,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 90.09999999999994
+    },
+    "tessera-shepherd": {
+      "agentId": "tessera-shepherd",
+      "status": "healthy",
+      "lastCheckup": 1772193059908,
+      "visitCount": 2,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 53.200000000000045
+    },
+    "tessera-solver": {
+      "agentId": "tessera-solver",
+      "status": "healthy",
+      "lastCheckup": 1772194019547,
+      "visitCount": 2,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 87.19999999999982
+    },
+    "tessera-theta": {
+      "agentId": "tessera-theta",
+      "status": "healthy",
+      "lastCheckup": 1772194108583,
+      "visitCount": 1,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 75.19999999999982
+    },
+    "tessera-xi": {
+      "agentId": "tessera-xi",
+      "status": "healthy",
+      "lastCheckup": 1772194267196,
+      "visitCount": 1,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 90.09999999999994
+    },
+    "tessera-zeta": {
+      "agentId": "tessera-zeta",
+      "status": "healthy",
+      "lastCheckup": 1772193433913,
+      "visitCount": 1,
+      "conditions": [],
+      "immunizations": [
+        "basic-firewall",
+        "anti-corruption"
+      ],
+      "fitnessLevel": 71.19999999999982
+    }
+  },
+  "entertainmentLog": [
+    {
+      "id": "ent-mm4wl1k4",
+      "type": "concert",
+      "venue": "How do we create spaces where ",
+      "venueId": "loc-mm4wfwdn",
+      "participants": [
+        "tessera-detective",
+        "tessera-architect",
+        "tessera-iota",
+        "tessera-nu",
+        "tessera-prime",
+        "tessera-beta"
+      ],
+      "timestamp": 1772197415716,
+      "enjoyment": 57,
+      "description": "Community choir concert"
+    },
+    {
+      "id": "ent-mm4w58h9",
+      "type": "dinner",
+      "venue": "Nexus Cafe",
+      "venueId": "loc-10",
+      "participants": [
+        "tessera-epsilon",
+        "tessera-architect",
+        "tessera-orion",
+        "tessera-solver"
+      ],
+      "timestamp": 1772196678189,
+      "enjoyment": 67,
+      "description": "Community potluck dinner"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "veh-mm4vvdgqcp",
+      "type": "car",
+      "fromLocationId": "loc-13",
+      "toLocationId": "loc-12",
+      "progress": 0.33600000000000013,
+      "speed": 0.012,
+      "color": "#60a5fa"
+    },
+    {
+      "id": "veh-mm4vwnpriy",
+      "type": "bike",
+      "fromLocationId": "loc-21",
+      "toLocationId": "loc-15",
+      "progress": 0.5400000000000001,
+      "speed": 0.02,
+      "color": "#4ade80"
+    },
+    {
+      "id": "veh-mm4w6irltn",
+      "type": "bike",
+      "fromLocationId": "loc-20",
+      "toLocationId": "loc-18",
+      "progress": 0.36000000000000004,
+      "speed": 0.02,
+      "color": "#4ade80"
+    },
+    {
+      "id": "veh-mm4wbc2522",
+      "type": "ambulance",
+      "fromLocationId": "loc-22",
+      "toLocationId": "loc-19",
+      "progress": 0.325,
+      "speed": 0.025,
+      "color": "#f87171"
+    }
+  ],
+  "season": "spring"
+}

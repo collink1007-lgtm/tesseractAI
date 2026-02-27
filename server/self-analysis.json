@@ -1,0 +1,59 @@
+{
+  "lastUpdated": "2026-02-27T13:05:57.979Z",
+  "totalSourceFiles": 30,
+  "totalLines": 16667,
+  "totalSizeKB": 745,
+  "largestFiles": [
+    {
+      "file": "server/routes.ts",
+      "lines": 4469,
+      "size": 224310
+    },
+    {
+      "file": "server/life-engine.ts",
+      "lines": 2827,
+      "size": 124971
+    },
+    {
+      "file": "server/autonomy.ts",
+      "lines": 2586,
+      "size": 127578
+    },
+    {
+      "file": "server/briefing-engine.ts",
+      "lines": 691,
+      "size": 34584
+    },
+    {
+      "file": "server/moltbook.ts",
+      "lines": 678,
+      "size": 36499
+    },
+    {
+      "file": "server/fleet.ts",
+      "lines": 626,
+      "size": 21638
+    },
+    {
+      "file": "server/agencies.ts",
+      "lines": 622,
+      "size": 36523
+    },
+    {
+      "file": "server/mediaPipeline.ts",
+      "lines": 527,
+      "size": 18355
+    },
+    {
+      "file": "server/improvement-engine.ts",
+      "lines": 458,
+      "size": 19915
+    },
+    {
+      "file": "server/fact-check.ts",
+      "lines": 400,
+      "size": 15084
+    }
+  ],
+  "integrityHash": "79696c38432d800075538b00"
+}
